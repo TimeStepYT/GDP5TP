@@ -24,6 +24,8 @@ for textureldr in range(2):
             writeToZip(files, "GJ_GameSheet04", "plist")
             writeToZip(files, "GJ_LaunchSheet")
             writeToZip(files, "GJ_LaunchSheet", "plist")
+            writeToZip(files, "GJ_moveBtn")
+            writeToZip(files, "GJ_moveSBtn")
             writeToZip(files, "goldFont")
             writeToZip(files, "goldFont", "fnt")
             writeToZip(files, "menuLoop", "mp3")
