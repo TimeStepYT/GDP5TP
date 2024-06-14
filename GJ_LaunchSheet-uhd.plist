@@ -39,13 +39,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{99,2.5}</string>
+				<string>{104.5,2.5}</string>
 				<key>spriteSize</key>
-				<string>{1322,197}</string>
+				<string>{1333,197}</string>
 				<key>spriteSourceSize</key>
 				<string>{1716,208}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{1322,197}}</string>
+				<string>{{0,0},{1333,197}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -76,7 +76,7 @@
 			<key>realTextureFileName</key>
 			<string>GJ_LaunchSheet-uhd.png</string>
 			<key>size</key>
-			<string>{1322,402}</string>
+			<string>{1333,402}</string>
 			<key>textureFileName</key>
 			<string>GJ_LaunchSheet-uhd.png</string>
 		</dict>

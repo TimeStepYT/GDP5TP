@@ -2,51 +2,64 @@ import os
 from zipfile import ZipFile as zf
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
+global files
 
-def writeToZip(files, name, type = "png"):
+
+def writeToZip(name, type="png"):
     if type not in ["mp3", "fsh", "json"] and name != "pack":
         string = "./" + name + "-uhd." + type
     else:
         string = "./" + name + "." + type
     print(string)
     files.write(string)
-    
-for textureldr in range(2):
-    try:
-        with zf("./GDP5TP_noGeode.zip" if not textureldr else "./GDP5TP_textureldr.zip", "w") as files:
-            writeToZip(files, "bigFont")
-            writeToZip(files, "bigFont", "fnt")
-            writeToZip(files, "GJ_button_01")
-            writeToZip(files, "GJ_button_02")
-            writeToZip(files, "GJ_GameSheet03")
-            writeToZip(files, "GJ_GameSheet03", "plist")
-            writeToZip(files, "GJ_GameSheet04")
-            writeToZip(files, "GJ_GameSheet04", "plist")
-            writeToZip(files, "GJ_LaunchSheet")
-            writeToZip(files, "GJ_LaunchSheet", "plist")
-            writeToZip(files, "GJ_moveBtn")
-            writeToZip(files, "GJ_moveSBtn")
-            writeToZip(files, "goldFont")
-            writeToZip(files, "goldFont", "fnt")
-            writeToZip(files, "menuLoop", "mp3")
-            writeToZip(files, "sliderBar")
-            writeToZip(files, "slidergroove")
-            writeToZip(files, "TreasureRoomSheet")
-            writeToZip(files, "TreasureRoomSheet", "plist")
-            if textureldr:
-                writeToZip(files, "pack")
-                writeToZip(files, "pack", "json")
-                writeToZip(files, "geode.loader/BlankSheet")
-                writeToZip(files, "geode.loader/BlankSheet", "plist")
-                writeToZip(files, "geode.loader/LogoSheet")
-                writeToZip(files, "geode.loader/LogoSheet", "plist")
-                writeToZip(files, "geode.loader/tab-gradient")
-                writeToZip(files, "dankmeme.globed2/globedsheet1")
-                writeToZip(files, "dankmeme.globed2/globedsheet1", "plist")
-                # Uncomment when this shit works like it did in 2.1
-                #writeToZip(files, "menu-shader", "fsh")
-    except Exception as e:
-        print(e)
-        input()
-if os.path.exists("./GDP5TP_noGeode.zip") and os.path.exists("./GDP5TP_textureldr.zip"):
-    print("SUCCESS!")
+
+
+def addMoreIf(textureldr):
+    if not textureldr:
+        return
+    writeToZip("pack")
+    writeToZip("pack", "json")
+    writeToZip("geode.loader/BlankSheet")
+    writeToZip("geode.loader/BlankSheet", "plist")
+    writeToZip("geode.loader/LogoSheet")
+    writeToZip("geode.loader/LogoSheet", "plist")
+    writeToZip("geode.loader/tab-gradient")
+    writeToZip("dankmeme.globed2/globedsheet1")
+    writeToZip("dankmeme.globed2/globedsheet1", "plist")
+    # Uncomment when this shit works like it did in 2.1
+    # writeToZip(files, "menu-shader", "fsh")
+
+
+def createZip(name):
+    global files
+    with zf("./" + name + ".zip", "w") as files:
+        writeToZip("bigFont")
+        writeToZip("bigFont", "fnt")
+        writeToZip("GJ_button_01")
+        writeToZip("GJ_button_02")
+        writeToZip("GJ_GameSheet03")
+        writeToZip("GJ_GameSheet03", "plist")
+        writeToZip("GJ_GameSheet04")
+        writeToZip("GJ_GameSheet04", "plist")
+        writeToZip("GJ_LaunchSheet")
+        writeToZip("GJ_LaunchSheet", "plist")
+        writeToZip("GJ_moveBtn")
+        writeToZip("GJ_moveSBtn")
+        writeToZip("goldFont")
+        writeToZip("goldFont", "fnt")
+        writeToZip("menuLoop", "mp3")
+        writeToZip("sliderBar")
+        writeToZip("slidergroove")
+        writeToZip("TreasureRoomSheet")
+        writeToZip("TreasureRoomSheet", "plist")
+        
+        addMoreIf(name == "GDP5TP_textureldr")
+
+if __name__ == "__main__":
+    for textureldr in range(2):
+        if textureldr:
+            createZip("GDP5TP_textureldr")
+        else:
+            createZip("GDP5TP_noGeode")
+    if os.path.exists("./GDP5TP_noGeode.zip") and os.path.exists("./GDP5TP_textureldr.zip"):
+        print("SUCCESS!")
