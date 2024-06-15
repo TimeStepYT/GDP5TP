@@ -37,6 +37,7 @@ def createZip(name):
         writeToZip("bigFont", "fnt")
         writeToZip("GJ_button_01")
         writeToZip("GJ_button_02")
+        writeToZip("GJ_gradientBG")
         writeToZip("GJ_GameSheet03")
         writeToZip("GJ_GameSheet03", "plist")
         writeToZip("GJ_GameSheet04")
