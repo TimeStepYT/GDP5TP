@@ -1,0 +1,55 @@
+{
+	"geode": "3.4.0",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "fff",
+	"name": "TP",
+	"version": "v1.0.0",
+	"developer": "TimeStepYT",
+	"description": "",
+	"resources": {
+		"spritesheets": {
+			"BlankSheet": [
+				"resources/BlankSheet/*.png"
+			],
+			"GJ_GameSheet03": [
+				"resources/GameSheet_3/*.png"
+			],
+			"GJ_GameSheet04": [
+				"resources/GameSheet_4/*.png"
+			],
+			"globedsheet1": [
+				"resources/globedsheet1/*.png"
+			],
+			"GJ_LaunchSheet": [
+				"resources/LaunchSheet/*.png"
+			],
+			"LogoSheet": [
+				"resources/LogoSheet/*.png"
+			],
+			"TreasureRoomSheet": [
+				"resources/TreasureRoomSheet/*.png"
+			]
+		},
+		"sprites": [
+			"resources/GJ_button_01.png",
+			"resources/GJ_button_02.png",
+			"resources/GJ_gradientBG.png",
+			"resources/GJ_moveBtn.png",
+			"resources/GJ_moveSBtn.png",
+			"resources/sliderBar.png",
+			"resources/slidergroove.png"
+		],
+		"fonts": {
+			"bigFont": {
+				"path": "resources/KoreanKRSM.otf",
+				"outline": 1,
+				"size": 128
+			}
+		}
+	}
+}

@@ -6,12 +6,19 @@ global files
 
 
 def writeToZip(name, type="png"):
-    if type not in ["mp3", "fsh", "json"] and name != "pack":
-        string = "./" + name + "-uhd." + type
-    else:
-        string = "./" + name + "." + type
-    print(string)
-    files.write(string)
+    dontRepeat = False
+    for q in ["-uhd", "-hd", ""]:
+        if type not in ["mp3", "fsh", "json"] and name != "pack":
+            string = "./" + name + q + "." + type
+        else:
+            dontRepeat = True
+            string = "./" + name + "." + type
+        print(string)
+        try:
+            files.write(string)
+        except Exception as e:
+            print(e)
+        if dontRepeat: break
 
 
 def addMoreIf(textureldr):
@@ -23,7 +30,6 @@ def addMoreIf(textureldr):
     writeToZip("geode.loader/BlankSheet", "plist")
     writeToZip("geode.loader/LogoSheet")
     writeToZip("geode.loader/LogoSheet", "plist")
-    writeToZip("geode.loader/tab-gradient")
     writeToZip("dankmeme.globed2/globedsheet1")
     writeToZip("dankmeme.globed2/globedsheet1", "plist")
     # Uncomment when this shit works like it did in 2.1
