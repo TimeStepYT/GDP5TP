@@ -1,8 +1,6 @@
 # <b>G</b>eometry <b>D</b>ash <b>P</b>ersona <b>5</b> <b>T</b>exture <b>P</b>ack
 Made by TimeStepYT and RelikRS
 
-### ONLY AVAILABLE ON HIGH GRAPHICS AT THE MOMENT!!!
-
 If you want to apply this texture pack, I recommend going to the <b>Releases</b> tab to download.
 This is just so you don't download anything you don't need.
 
