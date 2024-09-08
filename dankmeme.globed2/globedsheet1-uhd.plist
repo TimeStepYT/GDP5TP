@@ -11,130 +11,13 @@
 			<key>spriteSize</key>
 			<string>{184,189}</string>
 			<key>spriteSourceSize</key>
-			<string>{184,191}</string>
+			<string>{184,190}</string>
 			<key>textureRect</key>
-			<string>{{0,0},{184,189}}</string>
+			<string>{{1508,0},{184,189}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
 		<key>dankmeme.globed2/button-privacy-ingame-off.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{2,-1}</string>
-			<key>spriteSize</key>
-			<string>{128,131}</string>
-			<key>spriteSourceSize</key>
-			<string>{132,138}</string>
-			<key>textureRect</key>
-			<string>{{191,0},{128,131}}</string>
-			<key>textureRotated</key>
-			<true/>
-		</dict>
-		<key>dankmeme.globed2/button-privacy-ingame-on.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{2,-1}</string>
-			<key>spriteSize</key>
-			<string>{128,131}</string>
-			<key>spriteSourceSize</key>
-			<string>{132,138}</string>
-			<key>textureRect</key>
-			<string>{{324,0},{128,131}}</string>
-			<key>textureRotated</key>
-			<true/>
-		</dict>
-		<key>dankmeme.globed2/button-privacy-invites-off.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{2,-1}</string>
-			<key>spriteSize</key>
-			<string>{128,131}</string>
-			<key>spriteSourceSize</key>
-			<string>{132,138}</string>
-			<key>textureRect</key>
-			<string>{{457,0},{128,131}}</string>
-			<key>textureRotated</key>
-			<true/>
-		</dict>
-		<key>dankmeme.globed2/button-privacy-invites-on.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{2,-1}</string>
-			<key>spriteSize</key>
-			<string>{128,131}</string>
-			<key>spriteSourceSize</key>
-			<string>{132,138}</string>
-			<key>textureRect</key>
-			<string>{{590,0},{128,131}}</string>
-			<key>textureRotated</key>
-			<true/>
-		</dict>
-		<key>dankmeme.globed2/button-privacy-lists-off.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{2,-1}</string>
-			<key>spriteSize</key>
-			<string>{128,131}</string>
-			<key>spriteSourceSize</key>
-			<string>{132,138}</string>
-			<key>textureRect</key>
-			<string>{{723,0},{128,131}}</string>
-			<key>textureRotated</key>
-			<true/>
-		</dict>
-		<key>dankmeme.globed2/button-privacy-lists-on.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{2,-1}</string>
-			<key>spriteSize</key>
-			<string>{128,131}</string>
-			<key>spriteSourceSize</key>
-			<string>{132,138}</string>
-			<key>textureRect</key>
-			<string>{{856,0},{128,131}}</string>
-			<key>textureRotated</key>
-			<true/>
-		</dict>
-		<key>dankmeme.globed2/button-privacy-roles-off.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{2,-1}</string>
-			<key>spriteSize</key>
-			<string>{128,131}</string>
-			<key>spriteSourceSize</key>
-			<string>{132,138}</string>
-			<key>textureRect</key>
-			<string>{{989,0},{128,131}}</string>
-			<key>textureRotated</key>
-			<true/>
-		</dict>
-		<key>dankmeme.globed2/button-privacy-roles-on.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{2,-1}</string>
-			<key>spriteSize</key>
-			<string>{128,131}</string>
-			<key>spriteSourceSize</key>
-			<string>{132,138}</string>
-			<key>textureRect</key>
-			<string>{{1122,0},{128,131}}</string>
-			<key>textureRotated</key>
-			<true/>
-		</dict>
-		<key>dankmeme.globed2/button-privacy-settings.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{2,-1}</string>
-			<key>spriteSize</key>
-			<string>{128,131}</string>
-			<key>spriteSourceSize</key>
-			<string>{132,138}</string>
-			<key>textureRect</key>
-			<string>{{1255,0},{128,131}}</string>
-			<key>textureRotated</key>
-			<true/>
-		</dict>
-		<key>dankmeme.globed2/button-secret.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{2,-2}</string>
@@ -143,7 +26,124 @@
 			<key>spriteSourceSize</key>
 			<string>{132,138}</string>
 			<key>textureRect</key>
-			<string>{{1388,0},{128,131}}</string>
+			<string>{{1699,0},{128,131}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>dankmeme.globed2/button-privacy-ingame-on.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{2,-2}</string>
+			<key>spriteSize</key>
+			<string>{128,131}</string>
+			<key>spriteSourceSize</key>
+			<string>{132,138}</string>
+			<key>textureRect</key>
+			<string>{{1832,0},{128,131}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>dankmeme.globed2/button-privacy-invites-off.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{2,-2}</string>
+			<key>spriteSize</key>
+			<string>{128,131}</string>
+			<key>spriteSourceSize</key>
+			<string>{132,138}</string>
+			<key>textureRect</key>
+			<string>{{1229,84},{128,131}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>dankmeme.globed2/button-privacy-invites-on.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{2,-2}</string>
+			<key>spriteSize</key>
+			<string>{128,131}</string>
+			<key>spriteSourceSize</key>
+			<string>{132,138}</string>
+			<key>textureRect</key>
+			<string>{{1362,84},{128,131}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>dankmeme.globed2/button-privacy-lists-off.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{2,-2}</string>
+			<key>spriteSize</key>
+			<string>{128,131}</string>
+			<key>spriteSourceSize</key>
+			<string>{132,138}</string>
+			<key>textureRect</key>
+			<string>{{0,99},{128,131}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>dankmeme.globed2/button-privacy-lists-on.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{2,-2}</string>
+			<key>spriteSize</key>
+			<string>{128,131}</string>
+			<key>spriteSourceSize</key>
+			<string>{132,138}</string>
+			<key>textureRect</key>
+			<string>{{1699,130},{128,131}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>dankmeme.globed2/button-privacy-roles-off.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{2,-2}</string>
+			<key>spriteSize</key>
+			<string>{128,131}</string>
+			<key>spriteSourceSize</key>
+			<string>{132,138}</string>
+			<key>textureRect</key>
+			<string>{{1832,130},{128,131}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>dankmeme.globed2/button-privacy-roles-on.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{2,-2}</string>
+			<key>spriteSize</key>
+			<string>{128,131}</string>
+			<key>spriteSourceSize</key>
+			<string>{132,138}</string>
+			<key>textureRect</key>
+			<string>{{406,143},{128,131}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>dankmeme.globed2/button-privacy-settings.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{2,-2}</string>
+			<key>spriteSize</key>
+			<string>{128,131}</string>
+			<key>spriteSourceSize</key>
+			<string>{132,138}</string>
+			<key>textureRect</key>
+			<string>{{133,157},{128,131}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>dankmeme.globed2/button-secret.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{2,-3}</string>
+			<key>spriteSize</key>
+			<string>{128,131}</string>
+			<key>spriteSourceSize</key>
+			<string>{132,138}</string>
+			<key>textureRect</key>
+			<string>{{266,157},{128,131}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -156,35 +156,35 @@
 			<key>spriteSourceSize</key>
 			<string>{300,300}</string>
 			<key>textureRect</key>
-			<string>{{1521,0},{298,298}}</string>
+			<string>{{1578,1959},{298,298}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/deafen-icon-off.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{-1,-1}</string>
+			<string>{0,-2}</string>
 			<key>spriteSize</key>
 			<string>{107,97}</string>
 			<key>spriteSourceSize</key>
 			<string>{124,124}</string>
 			<key>textureRect</key>
-			<string>{{1821,0},{107,97}}</string>
+			<string>{{0,0},{107,97}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/deafen-icon-on.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{1,-1}</string>
+			<string>{2,-2}</string>
 			<key>spriteSize</key>
 			<string>{111,97}</string>
 			<key>spriteSourceSize</key>
 			<string>{124,124}</string>
 			<key>textureRect</key>
-			<string>{{1930,0},{111,97}}</string>
+			<string>{{109,0},{111,97}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>dankmeme.globed2/default-player-cube.png</key>
 		<dict>
@@ -195,20 +195,20 @@
 			<key>spriteSourceSize</key>
 			<string>{121,120}</string>
 			<key>textureRect</key>
-			<string>{{1821,113},{121,120}}</string>
+			<string>{{1712,1418},{121,120}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/featured-player-icon.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,1}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{115,131}</string>
 			<key>spriteSourceSize</key>
 			<string>{133,144}</string>
 			<key>textureRect</key>
-			<string>{{191,130},{115,131}}</string>
+			<string>{{1578,2259},{115,131}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -219,74 +219,74 @@
 			<key>spriteSize</key>
 			<string>{585,120}</string>
 			<key>spriteSourceSize</key>
-			<string>{601,120}</string>
+			<string>{600,120}</string>
 			<key>textureRect</key>
-			<string>{{324,130},{585,120}}</string>
+			<string>{{1312,1540},{585,120}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/friend-icon.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{-5,1}</string>
+			<string>{-4,0}</string>
 			<key>spriteSize</key>
 			<string>{183,143}</string>
 			<key>spriteSourceSize</key>
 			<string>{200,144}</string>
 			<key>textureRect</key>
-			<string>{{911,130},{183,143}}</string>
+			<string>{{539,182},{183,143}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/icon-ban.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{3,0}</string>
+			<string>{3,-1}</string>
 			<key>spriteSize</key>
 			<string>{166,163}</string>
 			<key>spriteSourceSize</key>
 			<string>{172,166}</string>
 			<key>textureRect</key>
-			<string>{{1096,130},{166,163}}</string>
+			<string>{{1495,186},{166,163}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/icon-chat.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,2}</string>
+			<string>{0,1}</string>
 			<key>spriteSize</key>
 			<string>{182,155}</string>
 			<key>spriteSourceSize</key>
 			<string>{190,190}</string>
 			<key>textureRect</key>
-			<string>{{1264,130},{182,155}}</string>
+			<string>{{222,0},{182,155}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/icon-close-room.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{3,0}</string>
+			<string>{3,-1}</string>
 			<key>spriteSize</key>
 			<string>{166,163}</string>
 			<key>spriteSourceSize</key>
 			<string>{172,166}</string>
 			<key>textureRect</key>
-			<string>{{0,186},{166,163}}</string>
+			<string>{{724,213},{166,163}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/icon-credits.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{3,0}</string>
+			<string>{3,-1}</string>
 			<key>spriteSize</key>
 			<string>{166,163}</string>
 			<key>spriteSourceSize</key>
 			<string>{172,166}</string>
 			<key>textureRect</key>
-			<string>{{1821,235},{166,163}}</string>
+			<string>{{1229,214},{166,163}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -299,20 +299,20 @@
 			<key>spriteSourceSize</key>
 			<string>{331,238}</string>
 			<key>textureRect</key>
-			<string>{{168,252},{321,202}}</string>
+			<string>{{1578,2376},{321,202}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/icon-crown.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,-7}</string>
+			<string>{0,-8}</string>
 			<key>spriteSize</key>
 			<string>{327,217}</string>
 			<key>spriteSourceSize</key>
 			<string>{331,238}</string>
 			<key>textureRect</key>
-			<string>{{491,252},{327,217}}</string>
+			<string>{{1578,2580},{327,217}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -325,7 +325,7 @@
 			<key>spriteSourceSize</key>
 			<string>{200,200}</string>
 			<key>textureRect</key>
-			<string>{{820,275},{200,200}}</string>
+			<string>{{0,2646},{200,200}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -338,7 +338,7 @@
 			<key>spriteSourceSize</key>
 			<string>{194,266}</string>
 			<key>textureRect</key>
-			<string>{{1264,287},{190,194}}</string>
+			<string>{{202,2646},{190,194}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -349,9 +349,9 @@
 			<key>spriteSize</key>
 			<string>{772,207}</string>
 			<key>spriteSourceSize</key>
-			<string>{778,207}</string>
+			<string>{777,220}</string>
 			<key>textureRect</key>
-			<string>{{0,471},{772,207}}</string>
+			<string>{{398,2646},{772,207}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -364,7 +364,7 @@
 			<key>spriteSourceSize</key>
 			<string>{168,215}</string>
 			<key>textureRect</key>
-			<string>{{1022,295},{164,167}}</string>
+			<string>{{1172,2646},{164,167}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -377,7 +377,7 @@
 			<key>spriteSourceSize</key>
 			<string>{225,217}</string>
 			<key>textureRect</key>
-			<string>{{1460,300},{218,217}}</string>
+			<string>{{1341,2646},{218,217}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -390,20 +390,20 @@
 			<key>spriteSourceSize</key>
 			<string>{184,188}</string>
 			<key>textureRect</key>
-			<string>{{1680,400},{180,182}}</string>
+			<string>{{892,240},{180,182}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
 		<key>dankmeme.globed2/icon-invite-menu.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{2,-2}</string>
+			<string>{2,-3}</string>
 			<key>spriteSize</key>
 			<string>{128,131}</string>
 			<key>spriteSourceSize</key>
 			<string>{132,138}</string>
 			<key>textureRect</key>
-			<string>{{1864,400},{128,131}}</string>
+			<string>{{0,229},{128,131}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -416,9 +416,9 @@
 			<key>spriteSourceSize</key>
 			<string>{104,77}</string>
 			<key>textureRect</key>
-			<string>{{1022,461},{100,74}}</string>
+			<string>{{1397,214},{100,74}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>dankmeme.globed2/icon-kick-all.png</key>
 		<dict>
@@ -429,7 +429,7 @@
 			<key>spriteSourceSize</key>
 			<string>{184,190}</string>
 			<key>textureRect</key>
-			<string>{{774,477},{180,182}}</string>
+			<string>{{1663,260},{180,182}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -442,46 +442,46 @@
 			<key>spriteSourceSize</key>
 			<string>{184,190}</string>
 			<key>textureRect</key>
-			<string>{{1124,479},{184,190}}</string>
+			<string>{{133,287},{184,190}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
 		<key>dankmeme.globed2/icon-kofi.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{3,0}</string>
+			<string>{3,-1}</string>
 			<key>spriteSize</key>
 			<string>{166,163}</string>
 			<key>spriteSourceSize</key>
 			<string>{172,166}</string>
 			<key>textureRect</key>
-			<string>{{1316,519},{166,163}}</string>
+			<string>{{325,287},{166,163}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/icon-leave-server.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{2,-2}</string>
+			<string>{2,-3}</string>
 			<key>spriteSize</key>
 			<string>{128,131}</string>
 			<key>spriteSourceSize</key>
 			<string>{132,138}</string>
 			<key>textureRect</key>
-			<string>{{1484,519},{128,131}}</string>
+			<string>{{1076,240},{128,131}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
 		<key>dankmeme.globed2/icon-level-list.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{3,0}</string>
+			<string>{3,-1}</string>
 			<key>spriteSize</key>
 			<string>{166,163}</string>
 			<key>spriteSourceSize</key>
 			<string>{172,166}</string>
 			<key>textureRect</key>
-			<string>{{1864,530},{166,163}}</string>
+			<string>{{493,327},{166,163}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -494,7 +494,7 @@
 			<key>spriteSourceSize</key>
 			<string>{118,124}</string>
 			<key>textureRect</key>
-			<string>{{958,537},{114,116}}</string>
+			<string>{{1847,260},{114,116}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -507,98 +507,98 @@
 			<key>spriteSourceSize</key>
 			<string>{152,158}</string>
 			<key>textureRect</key>
-			<string>{{1617,582},{152,158}}</string>
+			<string>{{1473,351},{152,158}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
 		<key>dankmeme.globed2/icon-outstanding-overlay.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{1,-11}</string>
+			<string>{2,-11}</string>
 			<key>spriteSize</key>
 			<string>{155,76}</string>
 			<key>spriteSourceSize</key>
 			<string>{250,266}</string>
 			<key>textureRect</key>
-			<string>{{958,653},{155,76}}</string>
+			<string>{{1561,2799},{155,76}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/icon-outstanding.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{-4,32}</string>
+			<string>{-3,31}</string>
 			<key>spriteSize</key>
 			<string>{205,201}</string>
 			<key>spriteSourceSize</key>
 			<string>{250,266}</string>
 			<key>textureRect</key>
-			<string>{{0,680},{205,201}}</string>
+			<string>{{1718,2799},{205,201}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/icon-person.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,1}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{115,131}</string>
 			<key>spriteSourceSize</key>
 			<string>{133,144}</string>
 			<key>textureRect</key>
-			<string>{{1484,649},{115,131}}</string>
+			<string>{{0,359},{115,131}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
 		<key>dankmeme.globed2/icon-players.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,2}</string>
+			<string>{0,1}</string>
 			<key>spriteSize</key>
 			<string>{176,141}</string>
 			<key>spriteSourceSize</key>
 			<string>{190,190}</string>
 			<key>textureRect</key>
-			<string>{{774,659},{176,141}}</string>
+			<string>{{406,0},{176,141}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/icon-refresh-square.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{2,-2}</string>
+			<string>{2,-3}</string>
 			<key>spriteSize</key>
 			<string>{128,131}</string>
 			<key>spriteSourceSize</key>
 			<string>{132,138}</string>
 			<key>textureRect</key>
-			<string>{{1115,665},{128,131}}</string>
+			<string>{{1076,370},{128,131}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
 		<key>dankmeme.globed2/icon-send-btn.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{2,-2}</string>
+			<string>{2,-3}</string>
 			<key>spriteSize</key>
 			<string>{180,183}</string>
 			<key>spriteSourceSize</key>
 			<string>{184,190}</string>
 			<key>textureRect</key>
-			<string>{{207,680},{180,183}}</string>
+			<string>{{202,2838},{180,183}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
 		<key>dankmeme.globed2/icon-server-folder.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{3,0}</string>
+			<string>{3,-1}</string>
 			<key>spriteSize</key>
 			<string>{166,163}</string>
 			<key>spriteSourceSize</key>
 			<string>{172,166}</string>
 			<key>textureRect</key>
-			<string>{{392,680},{166,163}}</string>
+			<string>{{661,378},{166,163}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -611,33 +611,33 @@
 			<key>spriteSourceSize</key>
 			<string>{184,188}</string>
 			<key>textureRect</key>
-			<string>{{560,680},{180,182}}</string>
+			<string>{{584,0},{180,182}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
 		<key>dankmeme.globed2/icon-teleport.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{1,-2}</string>
+			<string>{2,-3}</string>
 			<key>spriteSize</key>
 			<string>{211,213}</string>
 			<key>spriteSourceSize</key>
 			<string>{216,226}</string>
 			<key>textureRect</key>
-			<string>{{1248,684},{211,213}}</string>
+			<string>{{768,0},{211,213}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
 		<key>dankmeme.globed2/icon-unban.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{3,0}</string>
+			<string>{3,-1}</string>
 			<key>spriteSize</key>
 			<string>{166,163}</string>
 			<key>spriteSourceSize</key>
 			<string>{172,166}</string>
 			<key>textureRect</key>
-			<string>{{1777,695},{166,163}}</string>
+			<string>{{1209,379},{166,163}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -650,48 +650,48 @@
 			<key>spriteSourceSize</key>
 			<string>{152,158}</string>
 			<key>textureRect</key>
-			<string>{{952,731},{152,158}}</string>
+			<string>{{829,422},{152,158}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
 		<key>dankmeme.globed2/icon-unwhitelist.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-1}</string>
 			<key>spriteSize</key>
 			<string>{160,141}</string>
 			<key>spriteSourceSize</key>
 			<string>{160,160}</string>
 			<key>textureRect</key>
-			<string>{{1617,736},{160,141}}</string>
+			<string>{{1633,442},{160,141}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>dankmeme.globed2/icon-voice-chat-guide.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{3,0}</string>
+			<string>{3,-1}</string>
 			<key>spriteSize</key>
 			<string>{166,163}</string>
 			<key>spriteSourceSize</key>
 			<string>{172,166}</string>
 			<key>textureRect</key>
-			<string>{{744,802},{166,163}}</string>
+			<string>{{1795,442},{166,163}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/icon-whitelist.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{1,-1}</string>
 			<key>spriteSize</key>
 			<string>{157,141}</string>
 			<key>spriteSourceSize</key>
 			<string>{160,160}</string>
 			<key>textureRect</key>
-			<string>{{1463,766},{157,141}}</string>
+			<string>{{325,452},{157,141}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>dankmeme.globed2/kofi-promo-border.png</key>
 		<dict>
@@ -702,7 +702,7 @@
 			<key>spriteSourceSize</key>
 			<string>{1238,728}</string>
 			<key>textureRect</key>
-			<string>{{392,967},{1236,728}}</string>
+			<string>{{484,585},{1236,728}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -715,22 +715,22 @@
 			<key>spriteSourceSize</key>
 			<string>{1319,773}</string>
 			<key>textureRect</key>
-			<string>{{207,1697},{1310,764}}</string>
+			<string>{{0,1315},{1310,764}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/list-border-bottom.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,16}</string>
+			<string>{0,15}</string>
 			<key>spriteSize</key>
 			<string>{1556,169}</string>
 			<key>spriteSourceSize</key>
 			<string>{1556,206}</string>
 			<key>textureRect</key>
-			<string>{{1760,860},{1556,169}}</string>
+			<string>{{0,2081},{1556,169}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>dankmeme.globed2/list-border-side.png</key>
 		<dict>
@@ -741,9 +741,9 @@
 			<key>spriteSourceSize</key>
 			<string>{119,256}</string>
 			<key>textureRect</key>
-			<string>{{1945,695},{88,256}}</string>
+			<string>{{1558,1662},{88,256}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>dankmeme.globed2/list-border-top.png</key>
 		<dict>
@@ -754,22 +754,22 @@
 			<key>spriteSourceSize</key>
 			<string>{1576,215}</string>
 			<key>textureRect</key>
-			<string>{{0,883},{1576,175}}</string>
+			<string>{{0,2252},{1576,175}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>dankmeme.globed2/menuicon.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{-1,-1}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{194,97}</string>
+			<string>{200,200}</string>
 			<key>spriteSourceSize</key>
 			<string>{200,200}</string>
 			<key>textureRect</key>
-			<string>{{1630,898},{194,97}}</string>
+			<string>{{1722,607},{200,200}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>dankmeme.globed2/pencil.png</key>
 		<dict>
@@ -780,7 +780,7 @@
 			<key>spriteSourceSize</key>
 			<string>{110,110}</string>
 			<key>textureRect</key>
-			<string>{{1931,953},{106,108}}</string>
+			<string>{{1722,809},{106,108}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -793,267 +793,150 @@
 			<key>spriteSourceSize</key>
 			<string>{246,258}</string>
 			<key>textureRect</key>
-			<string>{{1519,1697},{238,244}}</string>
-			<key>textureRotated</key>
-			<false/>
-		</dict>
-		<key>dankmeme.globed2/role-admin.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{0,0}</string>
-			<key>spriteSize</key>
-			<string>{200,200}</string>
-			<key>spriteSourceSize</key>
-			<string>{200,200}</string>
-			<key>textureRect</key>
-			<string>{{1519,1943},{200,200}}</string>
-			<key>textureRotated</key>
-			<false/>
-		</dict>
-		<key>dankmeme.globed2/role-booster.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{0,7}</string>
-			<key>spriteSize</key>
-			<string>{174,157}</string>
-			<key>spriteSourceSize</key>
-			<string>{174,171}</string>
-			<key>textureRect</key>
-			<string>{{1519,2145},{174,157}}</string>
-			<key>textureRotated</key>
-			<false/>
-		</dict>
-		<key>dankmeme.globed2/role-cc1-winner.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{0,0}</string>
-			<key>spriteSize</key>
-			<string>{128,130}</string>
-			<key>spriteSourceSize</key>
-			<string>{128,130}</string>
-			<key>textureRect</key>
-			<string>{{1519,2304},{128,130}}</string>
+			<string>{{983,0},{238,244}}</string>
 			<key>textureRotated</key>
 			<true/>
-		</dict>
-		<key>dankmeme.globed2/role-dev.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{0,0}</string>
-			<key>spriteSize</key>
-			<string>{128,130}</string>
-			<key>spriteSourceSize</key>
-			<string>{128,130}</string>
-			<key>textureRect</key>
-			<string>{{1759,2418},{128,130}}</string>
-			<key>textureRotated</key>
-			<true/>
-		</dict>
-		<key>dankmeme.globed2/role-helper.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{0,0}</string>
-			<key>spriteSize</key>
-			<string>{200,200}</string>
-			<key>spriteSourceSize</key>
-			<string>{200,200}</string>
-			<key>textureRect</key>
-			<string>{{1519,2434},{200,200}}</string>
-			<key>textureRotated</key>
-			<false/>
-		</dict>
-		<key>dankmeme.globed2/role-mod.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{0,0}</string>
-			<key>spriteSize</key>
-			<string>{200,200}</string>
-			<key>spriteSourceSize</key>
-			<string>{200,200}</string>
-			<key>textureRect</key>
-			<string>{{0,2461},{200,200}}</string>
-			<key>textureRotated</key>
-			<false/>
-		</dict>
-		<key>dankmeme.globed2/role-owner.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{0,0}</string>
-			<key>spriteSize</key>
-			<string>{128,130}</string>
-			<key>spriteSourceSize</key>
-			<string>{128,130}</string>
-			<key>textureRect</key>
-			<string>{{1891,2418},{128,130}}</string>
-			<key>textureRotated</key>
-			<true/>
-		</dict>
-		<key>dankmeme.globed2/role-supporter.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{0,7}</string>
-			<key>spriteSize</key>
-			<string>{174,157}</string>
-			<key>spriteSourceSize</key>
-			<string>{174,171}</string>
-			<key>textureRect</key>
-			<string>{{202,2463},{174,157}}</string>
-			<key>textureRotated</key>
-			<false/>
-		</dict>
-		<key>dankmeme.globed2/role-user.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{0,0}</string>
-			<key>spriteSize</key>
-			<string>{200,200}</string>
-			<key>spriteSourceSize</key>
-			<string>{200,200}</string>
-			<key>textureRect</key>
-			<string>{{378,2463},{200,200}}</string>
-			<key>textureRotated</key>
-			<false/>
 		</dict>
 		<key>dankmeme.globed2/room-icon-collision.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,1}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{166,165}</string>
 			<key>spriteSourceSize</key>
 			<string>{184,188}</string>
 			<key>textureRect</key>
-			<string>{{580,2463},{166,165}}</string>
+			<string>{{1722,917},{166,165}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/room-icon-deathlink.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,1}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{166,165}</string>
 			<key>spriteSourceSize</key>
 			<string>{184,188}</string>
 			<key>textureRect</key>
-			<string>{{748,2463},{166,165}}</string>
+			<string>{{1722,1084},{166,165}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/room-icon-lock.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,1}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{166,165}</string>
 			<key>spriteSourceSize</key>
 			<string>{184,188}</string>
 			<key>textureRect</key>
-			<string>{{916,2463},{166,165}}</string>
+			<string>{{1722,1251},{166,165}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/secret-question-mark.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,2}</string>
+			<string>{0,1}</string>
 			<key>spriteSize</key>
 			<string>{132,131}</string>
 			<key>spriteSourceSize</key>
 			<string>{132,138}</string>
 			<key>textureRect</key>
-			<string>{{1084,2463},{132,131}}</string>
+			<string>{{1312,1315},{132,131}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/shadow-thing-idk.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{-1,0}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{309,94}</string>
 			<key>spriteSourceSize</key>
 			<string>{310,94}</string>
 			<key>textureRect</key>
-			<string>{{1721,2548},{309,94}}</string>
+			<string>{{1578,1752},{309,94}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/speaker-icon-red.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{-1,0}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{91,82}</string>
 			<key>spriteSourceSize</key>
 			<string>{96,96}</string>
 			<key>textureRect</key>
-			<string>{{1218,2463},{91,82}}</string>
+			<string>{{1229,0},{91,82}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/speaker-icon-yellow.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{-1,0}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{91,82}</string>
 			<key>spriteSourceSize</key>
 			<string>{96,96}</string>
 			<key>textureRect</key>
-			<string>{{1311,2463},{91,82}}</string>
+			<string>{{1322,0},{91,82}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/speaker-icon.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{-1,0}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{91,82}</string>
 			<key>spriteSourceSize</key>
 			<string>{96,96}</string>
 			<key>textureRect</key>
-			<string>{{1404,2463},{91,82}}</string>
+			<string>{{1415,0},{91,82}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dankmeme.globed2/status-invisible.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{1,1}</string>
+			<string>{1,0}</string>
 			<key>spriteSize</key>
 			<string>{128,131}</string>
 			<key>spriteSourceSize</key>
 			<string>{130,132}</string>
 			<key>textureRect</key>
-			<string>{{1218,2547},{128,131}}</string>
+			<string>{{1446,1315},{128,131}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
 		<key>dankmeme.globed2/status-visible.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{1,1}</string>
+			<string>{1,0}</string>
 			<key>spriteSize</key>
 			<string>{128,131}</string>
 			<key>spriteSourceSize</key>
 			<string>{130,132}</string>
 			<key>textureRect</key>
-			<string>{{1351,2547},{128,131}}</string>
+			<string>{{1579,1315},{128,131}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
 		<key>dankmeme.globed2/tab-gradient-mask.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,-8}</string>
+			<string>{0,-9}</string>
 			<key>spriteSize</key>
 			<string>{344,109}</string>
 			<key>spriteSourceSize</key>
 			<string>{369,128}</string>
 			<key>textureRect</key>
-			<string>{{580,2630},{344,109}}</string>
+			<string>{{1578,1848},{344,109}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -1066,7 +949,7 @@
 			<key>spriteSourceSize</key>
 			<string>{1576,215}</string>
 			<key>textureRect</key>
-			<string>{{202,2741},{1576,215}}</string>
+			<string>{{0,2429},{1576,215}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -1079,20 +962,7 @@
 			<key>spriteSourceSize</key>
 			<string>{1280,183}</string>
 			<key>textureRect</key>
-			<string>{{0,2958},{1280,183}}</string>
-			<key>textureRotated</key>
-			<false/>
-		</dict>
-		<key>dankmeme.globed2/whitelist-icon.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{-3,0}</string>
-			<key>spriteSize</key>
-			<string>{127,115}</string>
-			<key>spriteSourceSize</key>
-			<string>{133,118}</string>
-			<key>textureRect</key>
-			<string>{{1780,2644},{127,115}}</string>
+			<string>{{387,2877},{1280,183}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -1104,7 +974,7 @@
 		<key>realTextureFileName</key>
 		<string>dankmeme.globed2/globedsheet1-uhd.png</string>
 		<key>size</key>
-		<string>{2039,3141}</string>
+		<string>{1963,3060}</string>
 		<key>textureFileName</key>
 		<string>dankmeme.globed2/globedsheet1-uhd.png</string>
 	</dict>
