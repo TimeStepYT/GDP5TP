@@ -61,6 +61,7 @@ def createZip(name):
         writeToZip("TreasureRoomSheet", "plist")
         writeToZip("explode_11", "ogg")
         writeToZip("achievement_01", "ogg")
+        writeToZip("secretLoop", "mp3")
         
         addMoreIf(name == "GDP5TP_textureldr")
 
