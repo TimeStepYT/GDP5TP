@@ -134,6 +134,19 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
+		<key>chest_09_price_001.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{109,33}</string>
+			<key>spriteSourceSize</key>
+			<string>{109,33}</string>
+			<key>textureRect</key>
+			<string>{{270,35},{109,33}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
 		<key>tier1label_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
@@ -143,7 +156,7 @@
 			<key>spriteSourceSize</key>
 			<string>{152,56}</string>
 			<key>textureRect</key>
-			<string>{{270,35},{147,50}}</string>
+			<string>{{381,35},{147,50}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -156,7 +169,7 @@
 			<key>spriteSourceSize</key>
 			<string>{160,56}</string>
 			<key>textureRect</key>
-			<string>{{419,35},{154,50}}</string>
+			<string>{{530,35},{154,50}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
