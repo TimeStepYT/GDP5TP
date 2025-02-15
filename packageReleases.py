@@ -8,7 +8,7 @@ global files
 def writeToZip(name, type="png"):
     dontRepeat = False
     for q in ["-uhd", "-hd", ""]:
-        if type not in ["mp3", "fsh", "json"] and name != "pack":
+        if type not in ["ogg", "mp3", "fsh", "json"] and name != "pack":
             string = "./" + name + q + "." + type
         else:
             dontRepeat = True
@@ -59,6 +59,8 @@ def createZip(name):
         writeToZip("slidergroove")
         writeToZip("TreasureRoomSheet")
         writeToZip("TreasureRoomSheet", "plist")
+        writeToZip("explode_11", "ogg")
+        writeToZip("achievement_01", "ogg")
         
         addMoreIf(name == "GDP5TP_textureldr")
 
