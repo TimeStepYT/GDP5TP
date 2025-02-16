@@ -33,7 +33,7 @@
 		<key>GJ_creatorBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{6,-8}</string>
+			<string>{-3,0}</string>
 			<key>spriteSize</key>
 			<string>{264,263}</string>
 			<key>spriteSourceSize</key>
@@ -202,7 +202,7 @@
 		<key>GJ_playBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{2,8}</string>
+			<string>{-11,1}</string>
 			<key>spriteSize</key>
 			<string>{401,383}</string>
 			<key>spriteSourceSize</key>

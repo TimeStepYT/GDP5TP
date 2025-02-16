@@ -33,13 +33,13 @@
 		<key>GJ_creatorBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{3,-3}</string>
+			<string>{-1,0}</string>
 			<key>spriteSize</key>
-			<string>{134,133}</string>
+			<string>{135,134}</string>
 			<key>spriteSourceSize</key>
 			<string>{140,140}</string>
 			<key>textureRect</key>
-			<string>{{405,0},{134,133}}</string>
+			<string>{{405,0},{135,134}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -52,7 +52,7 @@
 			<key>spriteSourceSize</key>
 			<string>{209,209}</string>
 			<key>textureRect</key>
-			<string>{{541,0},{200,200}}</string>
+			<string>{{542,0},{200,200}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -65,7 +65,7 @@
 			<key>spriteSourceSize</key>
 			<string>{209,209}</string>
 			<key>textureRect</key>
-			<string>{{743,0},{200,201}}</string>
+			<string>{{744,0},{200,201}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -78,7 +78,7 @@
 			<key>spriteSourceSize</key>
 			<string>{209,209}</string>
 			<key>textureRect</key>
-			<string>{{946,0},{200,201}}</string>
+			<string>{{947,0},{200,201}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -91,7 +91,7 @@
 			<key>spriteSourceSize</key>
 			<string>{133,131}</string>
 			<key>textureRect</key>
-			<string>{{405,135},{133,126}}</string>
+			<string>{{405,136},{133,126}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -202,7 +202,7 @@
 		<key>GJ_playBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{7,3}</string>
+			<string>{1,-1}</string>
 			<key>spriteSize</key>
 			<string>{194,194}</string>
 			<key>spriteSourceSize</key>
