@@ -22,9 +22,6 @@
 			"GJ_GameSheet04": [
 				"resources/GameSheet_4/*.png"
 			],
-			"globedsheet1": [
-				"resources/globedsheet1/*.png"
-			],
 			"GJ_LaunchSheet": [
 				"resources/LaunchSheet/*.png"
 			],

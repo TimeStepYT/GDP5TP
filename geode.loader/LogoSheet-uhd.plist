@@ -65,7 +65,7 @@
 			<key>spriteSourceSize</key>
 			<string>{336,336}</string>
 			<key>textureRect</key>
-			<string>{{361,131},{324,324}}</string>
+			<string>{{0,230},{324,324}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -78,7 +78,7 @@
 			<key>spriteSourceSize</key>
 			<string>{336,336}</string>
 			<key>textureRect</key>
-			<string>{{0,230},{324,324}}</string>
+			<string>{{0,556},{324,324}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -91,22 +91,9 @@
 			<key>spriteSourceSize</key>
 			<string>{380,380}</string>
 			<key>textureRect</key>
-			<string>{{326,457},{371,375}}</string>
+			<string>{{0,882},{371,375}}</string>
 			<key>textureRotated</key>
 			<true/>
-		</dict>
-		<key>geode.loader/no-logo.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{0,0}</string>
-			<key>spriteSize</key>
-			<string>{324,324}</string>
-			<key>spriteSourceSize</key>
-			<string>{336,336}</string>
-			<key>textureRect</key>
-			<string>{{0,556},{324,324}}</string>
-			<key>textureRotated</key>
-			<false/>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -116,7 +103,7 @@
 		<key>realTextureFileName</key>
 		<string>geode.loader/LogoSheet-uhd.png</string>
 		<key>size</key>
-		<string>{701,880}</string>
+		<string>{625,1253}</string>
 		<key>textureFileName</key>
 		<string>geode.loader/LogoSheet-uhd.png</string>
 	</dict>

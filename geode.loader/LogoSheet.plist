@@ -52,7 +52,7 @@
 			<key>spriteSourceSize</key>
 			<string>{32,32}</string>
 			<key>textureRect</key>
-			<string>{{130,0},{32,32}}</string>
+			<string>{{0,34},{32,32}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -65,7 +65,7 @@
 			<key>spriteSourceSize</key>
 			<string>{84,84}</string>
 			<key>textureRect</key>
-			<string>{{0,61},{84,84}}</string>
+			<string>{{34,61},{84,84}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -78,7 +78,7 @@
 			<key>spriteSourceSize</key>
 			<string>{84,84}</string>
 			<key>textureRect</key>
-			<string>{{86,61},{84,84}}</string>
+			<string>{{0,147},{84,84}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -91,22 +91,9 @@
 			<key>spriteSourceSize</key>
 			<string>{95,95}</string>
 			<key>textureRect</key>
-			<string>{{0,147},{94,95}}</string>
+			<string>{{0,233},{94,95}}</string>
 			<key>textureRotated</key>
 			<true/>
-		</dict>
-		<key>geode.loader/no-logo.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{0,0}</string>
-			<key>spriteSize</key>
-			<string>{84,84}</string>
-			<key>spriteSourceSize</key>
-			<string>{84,84}</string>
-			<key>textureRect</key>
-			<string>{{0,243},{84,84}}</string>
-			<key>textureRotated</key>
-			<false/>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -116,7 +103,7 @@
 		<key>realTextureFileName</key>
 		<string>geode.loader/LogoSheet.png</string>
 		<key>size</key>
-		<string>{170,327}</string>
+		<string>{128,327}</string>
 		<key>textureFileName</key>
 		<string>geode.loader/LogoSheet.png</string>
 	</dict>
