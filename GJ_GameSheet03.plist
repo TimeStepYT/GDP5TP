@@ -332,13 +332,13 @@
 		<key>GJ_bigStar_glow_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,-1}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{66,68}</string>
+			<string>{66,67}</string>
 			<key>spriteSourceSize</key>
 			<string>{68,72}</string>
 			<key>textureRect</key>
-			<string>{{442,40},{66,68}}</string>
+			<string>{{442,40},{66,67}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -351,7 +351,7 @@
 			<key>spriteSourceSize</key>
 			<string>{40,41}</string>
 			<key>textureRect</key>
-			<string>{{512,40},{40,41}}</string>
+			<string>{{511,40},{40,41}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -364,7 +364,7 @@
 			<key>spriteSourceSize</key>
 			<string>{38,39}</string>
 			<key>textureRect</key>
-			<string>{{555,40},{38,39}}</string>
+			<string>{{554,40},{38,39}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -442,7 +442,7 @@
 			<key>spriteSourceSize</key>
 			<string>{35,34}</string>
 			<key>textureRect</key>
-			<string>{{596,51},{35,34}}</string>
+			<string>{{595,51},{35,34}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -546,7 +546,7 @@
 			<key>spriteSourceSize</key>
 			<string>{7,30}</string>
 			<key>textureRect</key>
-			<string>{{633,51},{7,30}}</string>
+			<string>{{632,51},{7,30}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -559,7 +559,7 @@
 			<key>spriteSourceSize</key>
 			<string>{7,30}</string>
 			<key>textureRect</key>
-			<string>{{642,51},{7,30}}</string>
+			<string>{{641,51},{7,30}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
