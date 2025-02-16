@@ -33,7 +33,7 @@ def addMoreIf(textureldr):
     writeToZip("dankmeme.globed2/globedsheet1")
     writeToZip("dankmeme.globed2/globedsheet1", "plist")
     # Uncomment when this shit works like it did in 2.1
-    # writeToZip(files, "menu-shader", "fsh")
+    writeToZip("menu-shader", "fsh")
 
 
 def createZip(name):
