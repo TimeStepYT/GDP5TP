@@ -32,7 +32,6 @@ def addMoreIf(textureldr):
     writeToZip("geode.loader/LogoSheet", "plist")
     writeToZip("dankmeme.globed2/globedsheet1")
     writeToZip("dankmeme.globed2/globedsheet1", "plist")
-    # Uncomment when this shit works like it did in 2.1
     writeToZip("menu-shader", "fsh")
 
 
@@ -63,6 +62,8 @@ def createZip(name):
         writeToZip("achievement_01", "ogg")
         writeToZip("secretLoop", "mp3")
         writeToZip("secretLoop04", "ogg")
+        writeToZip("shop", "mp3")
+        writeToZip("shop3", "mp3")
         
         addMoreIf(name == "GDP5TP_textureldr")
 
