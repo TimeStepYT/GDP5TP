@@ -64,6 +64,8 @@ def createZip(name):
         writeToZip("secretLoop04", "ogg")
         writeToZip("shop", "mp3")
         writeToZip("shop3", "mp3")
+        writeToZip("playSound_01", "ogg")
+        writeToZip("endStart_02", "ogg")
         
         addMoreIf(name == "GDP5TP_textureldr")
 
