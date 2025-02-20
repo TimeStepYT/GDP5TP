@@ -71,7 +71,6 @@ def createZip(name):
         writeToZip("playSound_01", "ogg")
         writeToZip("endStart_02", "ogg")
         writeToZip("quitSound_01", "ogg")
-        writeToZip("fake", "ogg")
         
         addMoreIf(name == "GDP5TP_textureldr")
 
