@@ -1,12 +1,14 @@
 import os
 from zipfile import ZipFile as zf
 
+
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 global files
 
 somethingFailed = False
 
 def writeToZip(name, type="png"):
+    global somethingFailed
     dontRepeat = False
     for q in ["-uhd", "-hd", ""]:
         if type not in ["ogg", "mp3", "fsh", "json"] and name != "pack":
@@ -68,7 +70,8 @@ def createZip(name):
         writeToZip("shop3", "mp3")
         writeToZip("playSound_01", "ogg")
         writeToZip("endStart_02", "ogg")
-        writeToZip("quitSound_01" , "ogg")
+        writeToZip("quitSound_01", "ogg")
+        writeToZip("fake", "ogg")
         
         addMoreIf(name == "GDP5TP_textureldr")
 
@@ -78,9 +81,9 @@ if __name__ == "__main__":
             createZip("GDP5TP_textureldr")
         else:
             createZip("GDP5TP_noGeode")
-    if os.path.exists("./GDP5TP_noGeode.zip") and os.path.exists("./GDP5TP_textureldr.zip" and not somethingFailed):
+    if os.path.exists("./GDP5TP_noGeode.zip") and os.path.exists("./GDP5TP_textureldr.zip") and not somethingFailed:
         print("SUCCESS!")
     else:
         print("Some files may not have been found!")
         print("Please check the files above and see if the names are correct.")
-        input()
+        input("Press the Enter key to close...")
