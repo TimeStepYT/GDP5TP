@@ -99,5 +99,7 @@ if __name__ == "__main__":
                     print(file, end=", ")
                 else:
                     print(file)
-        
+        # delete the zip files to prevent publishing a broken texture pack
+        os.remove("./GDP5TP_textureldr.zip")
+        os.remove("./GDP5TP_noGeode.zip")
         input("Press the Enter key to close...")
