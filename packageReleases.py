@@ -5,10 +5,10 @@ from zipfile import ZipFile as zf
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 global files
 
-somethingFailed = False
+failedFiles = []
 
 def writeToZip(name, type="png"):
-    global somethingFailed
+    global failedFiles
     dontRepeat = False
     for q in ["-uhd", "-hd", ""]:
         if type not in ["ogg", "mp3", "fsh", "json"] and name != "pack":
@@ -20,7 +20,9 @@ def writeToZip(name, type="png"):
         try:
             files.write(string)
         except Exception as e:
-            somethingFailed = True
+            fileString = f"{name}.{type}"
+            if fileString not in failedFiles:
+                failedFiles.append(fileString)
             print(e)
         if dontRepeat: break
 
@@ -41,7 +43,10 @@ def addMoreIf(textureldr):
 
 def createZip(name):
     global files
-    with zf("./" + name + ".zip", "w") as files:
+    
+    path = f"./{name}.zip"
+    os.remove(path) # delete the previous zip file
+    with zf(path, "w") as files: # create a new zip file
         writeToZip("bigFont")
         writeToZip("bigFont", "fnt")
         writeToZip("GJ_button_01")
@@ -80,9 +85,19 @@ if __name__ == "__main__":
             createZip("GDP5TP_textureldr")
         else:
             createZip("GDP5TP_noGeode")
-    if os.path.exists("./GDP5TP_noGeode.zip") and os.path.exists("./GDP5TP_textureldr.zip") and not somethingFailed:
+    print()
+    if os.path.exists("./GDP5TP_noGeode.zip") and os.path.exists("./GDP5TP_textureldr.zip") and len(failedFiles) == 0:
         print("SUCCESS!")
     else:
-        print("Some files may not have been found!")
-        print("Please check the files above and see if the names are correct.")
+        print("ERROR!")
+        print("Couldn't create zip files!")
+        
+        if not len(failedFiles) == 0:
+            print("Some files may not have been found!")
+            for file in failedFiles:
+                if not file == failedFiles[len(failedFiles) - 1]:
+                    print(file, end=", ")
+                else:
+                    print(file)
+        
         input("Press the Enter key to close...")
