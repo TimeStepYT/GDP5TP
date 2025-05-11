@@ -11,3 +11,6 @@ Download this if you don't plan on using any mods or simply if Geode isn't out y
 
 ## Texture Loader
 Download this if you use Geode! **DON'T** drop the files into the Resources folder, because you won't get the new geode button like that. Get the Texture Loader mod and put the pack **FOLDER** inside `[Geometry Dash Folder]/geode/config/geode.texture-loader/packs/`. Then you will see the pack in the Texture Loader menu that you can access from the main menu on the right. Just drag it by the "move" button on the right of the name and drop it on the right side! Press "Apply" and you should now see the changes!
+
+# Support
+If you want to support us, thank you! We have a [Ko-fi page](https://ko-fi.com/timenrelik) if you feel like donating!
