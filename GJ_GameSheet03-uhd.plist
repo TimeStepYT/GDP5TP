@@ -6988,13 +6988,13 @@
 		<key>shopRope_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{6,-7}</string>
+			<string>{1,10}</string>
 			<key>spriteSize</key>
-			<string>{283,449}</string>
+			<string>{250,445}</string>
 			<key>spriteSourceSize</key>
 			<string>{296,464}</string>
 			<key>textureRect</key>
-			<string>{{1114,4239},{283,449}}</string>
+			<string>{{1114,4239},{250,445}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -7098,7 +7098,7 @@
 			<key>spriteSourceSize</key>
 			<string>{368,130}</string>
 			<key>textureRect</key>
-			<string>{{1565,4386},{368,119}}</string>
+			<string>{{1615,4386},{368,119}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -7202,7 +7202,7 @@
 			<key>spriteSourceSize</key>
 			<string>{818,144}</string>
 			<key>textureRect</key>
-			<string>{{1049,4524},{818,144}}</string>
+			<string>{{1049,4507},{818,144}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -7214,7 +7214,7 @@
 		<key>realTextureFileName</key>
 		<string>GJ_GameSheet03-uhd.png</string>
 		<key>size</key>
-		<string>{3806,4668}</string>
+		<string>{3806,4651}</string>
 		<key>textureFileName</key>
 		<string>GJ_GameSheet03-uhd.png</string>
 	</dict>
