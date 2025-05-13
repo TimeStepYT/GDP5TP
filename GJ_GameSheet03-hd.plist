@@ -3205,13 +3205,13 @@
 		<key>fff/btn_chatHistory_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,-1}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{60,62}</string>
+			<string>{60,63}</string>
 			<key>spriteSourceSize</key>
 			<string>{60,63}</string>
 			<key>textureRect</key>
-			<string>{{1832,1298},{60,62}}</string>
+			<string>{{1832,1298},{60,63}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
