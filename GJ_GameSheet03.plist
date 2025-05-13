@@ -4,7 +4,7 @@
 <dict>
 	<key>frames</key>
 	<dict>
-		<key>fff/GJLargeLock_001.png</key>
+		<key>GJLargeLock_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -17,7 +17,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_BPMOffBtn_001.png</key>
+		<key>GJ_BPMOffBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -30,7 +30,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_BPMOnBtn_001.png</key>
+		<key>GJ_BPMOnBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -43,7 +43,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_achBtn_001.png</key>
+		<key>GJ_achBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -56,7 +56,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_achImage_001.png</key>
+		<key>GJ_achImage_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -69,7 +69,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_adChestBtn_001.png</key>
+		<key>GJ_adChestBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -82,7 +82,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_arrow_01_001.png</key>
+		<key>GJ_arrow_01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -95,7 +95,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_arrow_02_001.png</key>
+		<key>GJ_arrow_02_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -108,7 +108,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_arrow_03_001.png</key>
+		<key>GJ_arrow_03_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -121,7 +121,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_audioOffBtn_001.png</key>
+		<key>GJ_audioOffBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -134,7 +134,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_audioOnBtn_001.png</key>
+		<key>GJ_audioOnBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -147,7 +147,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_autoOffBtn_001.png</key>
+		<key>GJ_autoOffBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -160,7 +160,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_autoOnBtn_001.png</key>
+		<key>GJ_autoOnBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -173,7 +173,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_backBtn_001.png</key>
+		<key>GJ_backBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -186,7 +186,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_bigDiamond_001.png</key>
+		<key>GJ_bigDiamond_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -199,7 +199,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_bigDiamond_glow_001.png</key>
+		<key>GJ_bigDiamond_glow_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,1}</string>
@@ -212,7 +212,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_bigDiamond_noShadow_001.png</key>
+		<key>GJ_bigDiamond_noShadow_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,1}</string>
@@ -225,7 +225,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_bigGoldKey_001.png</key>
+		<key>GJ_bigGoldKey_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -238,7 +238,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_bigGoldKey_glow_001.png</key>
+		<key>GJ_bigGoldKey_glow_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-1,-1}</string>
@@ -251,7 +251,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_bigKey_001.png</key>
+		<key>GJ_bigKey_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -264,7 +264,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_bigKey_glow_001.png</key>
+		<key>GJ_bigKey_glow_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -277,7 +277,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_bigMoon_001.png</key>
+		<key>GJ_bigMoon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-2,-1}</string>
@@ -290,7 +290,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_bigMoon_glow_001.png</key>
+		<key>GJ_bigMoon_glow_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-2,-1}</string>
@@ -303,7 +303,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_bigMoon_noShadow_001.png</key>
+		<key>GJ_bigMoon_noShadow_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -316,7 +316,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_bigStar_001.png</key>
+		<key>GJ_bigStar_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -329,7 +329,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_bigStar_glow_001.png</key>
+		<key>GJ_bigStar_glow_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -342,7 +342,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_bigStar_noShadow_001.png</key>
+		<key>GJ_bigStar_noShadow_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -355,7 +355,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_cancelDownloadBtn_001.png</key>
+		<key>GJ_cancelDownloadBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -368,7 +368,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_changeSongBtn_001.png</key>
+		<key>GJ_changeSongBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -381,7 +381,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_chatBtn_001.png</key>
+		<key>GJ_chatBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -394,7 +394,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_chatBtn_01_001.png</key>
+		<key>GJ_chatBtn_01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -407,7 +407,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_chatBtn_02_001.png</key>
+		<key>GJ_chatBtn_02_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -420,7 +420,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_checkOff_001.png</key>
+		<key>GJ_checkOff_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -433,7 +433,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_checkOn_001.png</key>
+		<key>GJ_checkOn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -446,7 +446,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_checkpointBtn_001.png</key>
+		<key>GJ_checkpointBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -459,7 +459,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_chrSel_001.png</key>
+		<key>GJ_chrSel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -472,7 +472,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_closeBtn_001.png</key>
+		<key>GJ_closeBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -485,7 +485,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_coinsIcon2_001.png</key>
+		<key>GJ_coinsIcon2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -498,7 +498,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_coinsIcon_001.png</key>
+		<key>GJ_coinsIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -511,7 +511,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_coinsIcon_gray_001.png</key>
+		<key>GJ_coinsIcon_gray_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -524,7 +524,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_colorBtn_001.png</key>
+		<key>GJ_colorBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -537,7 +537,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_commentSide2_001.png</key>
+		<key>GJ_commentSide2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -550,7 +550,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_commentSide_001.png</key>
+		<key>GJ_commentSide_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -563,7 +563,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_commentTop2_001.png</key>
+		<key>GJ_commentTop2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -576,7 +576,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_commentTop_001.png</key>
+		<key>GJ_commentTop_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -589,7 +589,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_completesIcon_001.png</key>
+		<key>GJ_completesIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -602,7 +602,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_copyBtn2_001.png</key>
+		<key>GJ_copyBtn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -615,7 +615,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_copyBtn_001.png</key>
+		<key>GJ_copyBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -628,7 +628,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_copyStateBtn_001.png</key>
+		<key>GJ_copyStateBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -641,7 +641,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_createLinesBtn_001.png</key>
+		<key>GJ_createLinesBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -654,7 +654,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_dailyRewardBtn_001.png</key>
+		<key>GJ_dailyRewardBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -667,7 +667,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_deSelBtn2_001.png</key>
+		<key>GJ_deSelBtn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -680,7 +680,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_deSelBtn_001.png</key>
+		<key>GJ_deSelBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -693,7 +693,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_deleteAllIcon_001.png</key>
+		<key>GJ_deleteAllIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -706,7 +706,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_deleteBtn_001.png</key>
+		<key>GJ_deleteBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -719,7 +719,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_deleteIcon_001.png</key>
+		<key>GJ_deleteIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -732,7 +732,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_deleteServerBtn_001.png</key>
+		<key>GJ_deleteServerBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -745,7 +745,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_deleteSongBtn_001.png</key>
+		<key>GJ_deleteSongBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -758,7 +758,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_demonIcon_001.png</key>
+		<key>GJ_demonIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -771,7 +771,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_diamondsIcon_001.png</key>
+		<key>GJ_diamondsIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -784,7 +784,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_dislikeBtn_001.png</key>
+		<key>GJ_dislikeBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -797,7 +797,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_dislikesIcon_001.png</key>
+		<key>GJ_dislikesIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-5}</string>
@@ -810,7 +810,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_downloadBtn_001.png</key>
+		<key>GJ_downloadBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -823,7 +823,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_downloadsIcon_001.png</key>
+		<key>GJ_downloadsIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -836,7 +836,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_duplicateBtn_001.png</key>
+		<key>GJ_duplicateBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -849,7 +849,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_duplicateLockedBtn_001.png</key>
+		<key>GJ_duplicateLockedBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -862,7 +862,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_duplicateObjectBtn2_001.png</key>
+		<key>GJ_duplicateObjectBtn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -875,7 +875,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_duplicateObjectBtn_001.png</key>
+		<key>GJ_duplicateObjectBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -888,7 +888,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_editBtn_001.png</key>
+		<key>GJ_editBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -901,7 +901,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_editHSVBtn2_001.png</key>
+		<key>GJ_editHSVBtn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -914,7 +914,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_editModeBtn_001.png</key>
+		<key>GJ_editModeBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -927,7 +927,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_editObjBtn3_001.png</key>
+		<key>GJ_editObjBtn3_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -940,7 +940,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_editObjBtn4_001.png</key>
+		<key>GJ_editObjBtn4_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -953,7 +953,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_epicCoin2_001.png</key>
+		<key>GJ_epicCoin2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,8}</string>
@@ -966,7 +966,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_epicCoin3_001.png</key>
+		<key>GJ_epicCoin3_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-1,7}</string>
@@ -979,7 +979,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_epicCoin_001.png</key>
+		<key>GJ_epicCoin_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,9}</string>
@@ -992,7 +992,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_everyplayBtn_001.png</key>
+		<key>GJ_everyplayBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1005,7 +1005,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_extendedIcon_001.png</key>
+		<key>GJ_extendedIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1018,7 +1018,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_featuredCoin_001.png</key>
+		<key>GJ_featuredCoin_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,5}</string>
@@ -1031,7 +1031,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_featuredIcon_001.png</key>
+		<key>GJ_featuredIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1044,7 +1044,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_filterIcon_001.png</key>
+		<key>GJ_filterIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -1057,7 +1057,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_followTxt_001.png</key>
+		<key>GJ_followTxt_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -1070,7 +1070,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_freeChestBtn_001.png</key>
+		<key>GJ_freeChestBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -1083,7 +1083,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_freeStuffBtn_001.png</key>
+		<key>GJ_freeStuffBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1096,7 +1096,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_fxOffBtn_001.png</key>
+		<key>GJ_fxOffBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1109,7 +1109,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_fxOnBtn_001.png</key>
+		<key>GJ_fxOnBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1122,7 +1122,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_garageBtn_001.png</key>
+		<key>GJ_garageBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -1135,7 +1135,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_getSongInfoBtn_001.png</key>
+		<key>GJ_getSongInfoBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1148,7 +1148,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_gkBtn_001.png</key>
+		<key>GJ_gkBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -1161,7 +1161,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_goToLayerBtn_001.png</key>
+		<key>GJ_goToLayerBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1174,7 +1174,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_gpBtn_001.png</key>
+		<key>GJ_gpBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1187,7 +1187,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_gpgBtn_001.png</key>
+		<key>GJ_gpgBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1200,7 +1200,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_groupIDBtn2_001.png</key>
+		<key>GJ_groupIDBtn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1213,7 +1213,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_groupIDBtn_001.png</key>
+		<key>GJ_groupIDBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1226,7 +1226,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_hammerIcon_001.png</key>
+		<key>GJ_hammerIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1239,7 +1239,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_helpBtn2_001.png</key>
+		<key>GJ_helpBtn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1252,7 +1252,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_helpBtn_001.png</key>
+		<key>GJ_helpBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1265,7 +1265,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_hsv2Btn_001.png</key>
+		<key>GJ_hsv2Btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1278,7 +1278,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_hsvBtn_001.png</key>
+		<key>GJ_hsvBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1291,7 +1291,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_infoBtn_001.png</key>
+		<key>GJ_infoBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1304,7 +1304,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_infoIcon_001.png</key>
+		<key>GJ_infoIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1317,7 +1317,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_levelComplete_001.png</key>
+		<key>GJ_levelComplete_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1330,7 +1330,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_levelLeaderboardBtn_001.png</key>
+		<key>GJ_levelLeaderboardBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1343,7 +1343,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_like2Btn2_001.png</key>
+		<key>GJ_like2Btn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1356,7 +1356,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_like2Btn_001.png</key>
+		<key>GJ_like2Btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1369,7 +1369,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_likeBtn2_001.png</key>
+		<key>GJ_likeBtn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1382,7 +1382,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_likeBtn_001.png</key>
+		<key>GJ_likeBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1395,7 +1395,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_likesIcon_001.png</key>
+		<key>GJ_likesIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1408,7 +1408,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_listAddBtn_001.png</key>
+		<key>GJ_listAddBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1421,7 +1421,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_lockGray_001.png</key>
+		<key>GJ_lockGray_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1434,7 +1434,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_lock_001.png</key>
+		<key>GJ_lock_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1447,7 +1447,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_lock_open_001.png</key>
+		<key>GJ_lock_open_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-2}</string>
@@ -1460,7 +1460,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_longBtn01_001.png</key>
+		<key>GJ_longBtn01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1473,7 +1473,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_longBtn02_001.png</key>
+		<key>GJ_longBtn02_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1486,7 +1486,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_longBtn03_001.png</key>
+		<key>GJ_longBtn03_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1499,7 +1499,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_longBtn04_001.png</key>
+		<key>GJ_longBtn04_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1512,7 +1512,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_longBtn05_001.png</key>
+		<key>GJ_longBtn05_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1525,7 +1525,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_longBtn06_001.png</key>
+		<key>GJ_longBtn06_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1538,7 +1538,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_longBtn07_001.png</key>
+		<key>GJ_longBtn07_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1551,7 +1551,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_lvlEditWorld_001.png</key>
+		<key>GJ_lvlEditWorld_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{1,0}</string>
@@ -1564,7 +1564,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_lvlEdit_001.png</key>
+		<key>GJ_lvlEdit_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1577,7 +1577,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_menuBtn_001.png</key>
+		<key>GJ_menuBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,1}</string>
@@ -1590,7 +1590,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_moonsIcon_001.png</key>
+		<key>GJ_moonsIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1603,7 +1603,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_musicIcon_001.png</key>
+		<key>GJ_musicIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1616,7 +1616,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_musicLibraryBtn_001.png</key>
+		<key>GJ_musicLibraryBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1629,7 +1629,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_musicOffBtn_001.png</key>
+		<key>GJ_musicOffBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1642,7 +1642,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_musicOnBtn_001.png</key>
+		<key>GJ_musicOnBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1655,7 +1655,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_myLevelsTxt_001.png</key>
+		<key>GJ_myLevelsTxt_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1668,7 +1668,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_myListsTxt_001.png</key>
+		<key>GJ_myListsTxt_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -1681,7 +1681,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_myServerBtn_001.png</key>
+		<key>GJ_myServerBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1694,7 +1694,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_nameTxt_001.png</key>
+		<key>GJ_nameTxt_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -1707,7 +1707,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_ncsLibraryBtn_001.png</key>
+		<key>GJ_ncsLibraryBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1720,7 +1720,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_newBest_001.png</key>
+		<key>GJ_newBest_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1733,7 +1733,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_newBtn_001.png</key>
+		<key>GJ_newBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1746,7 +1746,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_ngBtn_001.png</key>
+		<key>GJ_ngBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1759,7 +1759,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_normalBtn_001.png</key>
+		<key>GJ_normalBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,1}</string>
@@ -1772,7 +1772,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_noteIcon_001.png</key>
+		<key>GJ_noteIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1785,7 +1785,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_optionsBtn02_001.png</key>
+		<key>GJ_optionsBtn02_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1798,7 +1798,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_optionsBtn_001.png</key>
+		<key>GJ_optionsBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1811,7 +1811,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_optionsTxt_001.png</key>
+		<key>GJ_optionsTxt_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -1824,7 +1824,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_orderUpBtn_001.png</key>
+		<key>GJ_orderUpBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1837,7 +1837,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_paintBtn_001.png</key>
+		<key>GJ_paintBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1850,7 +1850,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_pasteBtn2_001.png</key>
+		<key>GJ_pasteBtn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1863,7 +1863,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_pasteBtn_001.png</key>
+		<key>GJ_pasteBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1876,7 +1876,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_pasteColorBtn_001.png</key>
+		<key>GJ_pasteColorBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1889,7 +1889,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_pasteStateBtn_001.png</key>
+		<key>GJ_pasteStateBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1902,7 +1902,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_pauseBtn_001.png</key>
+		<key>GJ_pauseBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1915,7 +1915,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_pauseBtn_clean_001.png</key>
+		<key>GJ_pauseBtn_clean_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1928,7 +1928,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_pauseEditorBtn_001.png</key>
+		<key>GJ_pauseEditorBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1941,7 +1941,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_plainBtn_001.png</key>
+		<key>GJ_plainBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1954,7 +1954,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_playBtn2_001.png</key>
+		<key>GJ_playBtn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -1967,7 +1967,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_playEditorBtn_001.png</key>
+		<key>GJ_playEditorBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1980,7 +1980,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_playMusicBtn_001.png</key>
+		<key>GJ_playMusicBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -1993,7 +1993,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_plus2Btn_001.png</key>
+		<key>GJ_plus2Btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2006,7 +2006,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_plus3Btn_001.png</key>
+		<key>GJ_plus3Btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2019,7 +2019,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_plusBtn_001.png</key>
+		<key>GJ_plusBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2032,7 +2032,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_pointsIcon_001.png</key>
+		<key>GJ_pointsIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2045,7 +2045,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_practiceBtn_001.png</key>
+		<key>GJ_practiceBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,1}</string>
@@ -2058,7 +2058,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_practiceComplete_001.png</key>
+		<key>GJ_practiceComplete_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2071,7 +2071,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_practiceTxt_001.png</key>
+		<key>GJ_practiceTxt_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -2084,7 +2084,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_profileButton_001.png</key>
+		<key>GJ_profileButton_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2097,7 +2097,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_rateDiffBtn2_001.png</key>
+		<key>GJ_rateDiffBtn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2110,7 +2110,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_rateDiffBtnMod_001.png</key>
+		<key>GJ_rateDiffBtnMod_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2123,7 +2123,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_rateDiffBtn_001.png</key>
+		<key>GJ_rateDiffBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2136,7 +2136,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_redoBtn_001.png</key>
+		<key>GJ_redoBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2149,7 +2149,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_removeCheckBtn_001.png</key>
+		<key>GJ_removeCheckBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2162,7 +2162,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_replayBtn_001.png</key>
+		<key>GJ_replayBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,1}</string>
@@ -2175,7 +2175,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_replayFullBtn_001.png</key>
+		<key>GJ_replayFullBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,1}</string>
@@ -2188,7 +2188,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_reportBtn_001.png</key>
+		<key>GJ_reportBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2201,7 +2201,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_resetBtn_001.png</key>
+		<key>GJ_resetBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2214,7 +2214,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_restartCheckBtn_001.png</key>
+		<key>GJ_restartCheckBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2227,7 +2227,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_rewardBtn_001.png</key>
+		<key>GJ_rewardBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2240,7 +2240,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_rotationControlBtn01_001.png</key>
+		<key>GJ_rotationControlBtn01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2253,7 +2253,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_rotationControlBtn02_001.png</key>
+		<key>GJ_rotationControlBtn02_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2266,7 +2266,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_sDownloadIcon_001.png</key>
+		<key>GJ_sDownloadIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2279,7 +2279,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_sFollowedIcon_001.png</key>
+		<key>GJ_sFollowedIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2292,7 +2292,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_sFriendsIcon_001.png</key>
+		<key>GJ_sFriendsIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2305,7 +2305,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_sLikeIcon_001.png</key>
+		<key>GJ_sLikeIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,1}</string>
@@ -2318,7 +2318,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_sMagicIcon_001.png</key>
+		<key>GJ_sMagicIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2331,7 +2331,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_sModIcon_001.png</key>
+		<key>GJ_sModIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2344,7 +2344,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_sRecentIcon_001.png</key>
+		<key>GJ_sRecentIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2357,7 +2357,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_sStarsIcon_001.png</key>
+		<key>GJ_sStarsIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2370,7 +2370,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_sTrendingIcon_001.png</key>
+		<key>GJ_sTrendingIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2383,7 +2383,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_savedSongsBtn_001.png</key>
+		<key>GJ_savedSongsBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2396,7 +2396,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_secretLock4_small_001.png</key>
+		<key>GJ_secretLock4_small_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2409,7 +2409,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_secretLock_001.png</key>
+		<key>GJ_secretLock_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-12}</string>
@@ -2422,7 +2422,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_selectSongBtn_001.png</key>
+		<key>GJ_selectSongBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2435,7 +2435,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_selectSongOnBtn_001.png</key>
+		<key>GJ_selectSongOnBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2448,7 +2448,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_select_001.png</key>
+		<key>GJ_select_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2461,7 +2461,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_shardsBtn_001.png</key>
+		<key>GJ_shardsBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2474,7 +2474,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_shareBtn_001.png</key>
+		<key>GJ_shareBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-1,-1}</string>
@@ -2487,7 +2487,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_sideArt_001.png</key>
+		<key>GJ_sideArt_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2500,7 +2500,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_smallModeIcon_001.png</key>
+		<key>GJ_smallModeIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2513,7 +2513,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_sortIcon_001.png</key>
+		<key>GJ_sortIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2526,7 +2526,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_starBtn2_001.png</key>
+		<key>GJ_starBtn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2539,7 +2539,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_starBtnMod_001.png</key>
+		<key>GJ_starBtnMod_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2552,7 +2552,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_starBtn_001.png</key>
+		<key>GJ_starBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2565,7 +2565,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_starsIcon_001.png</key>
+		<key>GJ_starsIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2578,7 +2578,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_starsIcon_gray_001.png</key>
+		<key>GJ_starsIcon_gray_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2591,7 +2591,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_statsBtn_001.png</key>
+		<key>GJ_statsBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2604,7 +2604,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_stopEditorBtn_001.png</key>
+		<key>GJ_stopEditorBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2617,7 +2617,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_stopMusicBtn_001.png</key>
+		<key>GJ_stopMusicBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2630,7 +2630,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_stuffTxt_001.png</key>
+		<key>GJ_stuffTxt_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{2,0}</string>
@@ -2643,7 +2643,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_tabOff_001.png</key>
+		<key>GJ_tabOff_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2656,7 +2656,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_tabOn_001.png</key>
+		<key>GJ_tabOn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2669,7 +2669,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_table_bottom_001.png</key>
+		<key>GJ_table_bottom_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,2}</string>
@@ -2682,7 +2682,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_table_corner_001.png</key>
+		<key>GJ_table_corner_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2695,7 +2695,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_table_side_001.png</key>
+		<key>GJ_table_side_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{2,0}</string>
@@ -2708,7 +2708,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_table_top02_001.png</key>
+		<key>GJ_table_top02_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-11}</string>
@@ -2721,7 +2721,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_table_top_001.png</key>
+		<key>GJ_table_top_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-3}</string>
@@ -2734,7 +2734,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_timeIcon_001.png</key>
+		<key>GJ_timeIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2747,7 +2747,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_topBar_001.png</key>
+		<key>GJ_topBar_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2760,7 +2760,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_trailerBtn_001.png</key>
+		<key>GJ_trailerBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2773,7 +2773,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_trashBtn_001.png</key>
+		<key>GJ_trashBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2786,7 +2786,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_twitchTxt_001.png</key>
+		<key>GJ_twitchTxt_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2799,7 +2799,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_twitterTxt_001.png</key>
+		<key>GJ_twitterTxt_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2812,7 +2812,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_undoBtn_001.png</key>
+		<key>GJ_undoBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2825,7 +2825,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_unlockTxt_001.png</key>
+		<key>GJ_unlockTxt_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2838,7 +2838,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_updateBtn_001.png</key>
+		<key>GJ_updateBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2851,7 +2851,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_viewLevelsBtn_001.png</key>
+		<key>GJ_viewLevelsBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2864,7 +2864,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_viewListsBtn_001.png</key>
+		<key>GJ_viewListsBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2877,7 +2877,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_viewProfileTxt_001.png</key>
+		<key>GJ_viewProfileTxt_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -2890,7 +2890,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_yourProfileTxt_001.png</key>
+		<key>GJ_yourProfileTxt_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2903,7 +2903,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_youtubeTxt_001.png</key>
+		<key>GJ_youtubeTxt_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2916,7 +2916,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_zoomInBtn_001.png</key>
+		<key>GJ_zoomInBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2929,7 +2929,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_zoomOutBtn_001.png</key>
+		<key>GJ_zoomOutBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2942,7 +2942,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/PBtn_Arrow_001.png</key>
+		<key>PBtn_Arrow_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2955,7 +2955,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/PBtn_Jump_001.png</key>
+		<key>PBtn_Jump_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2968,7 +2968,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/PBtn_Move_001.png</key>
+		<key>PBtn_Move_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2981,7 +2981,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/accountBtn_blocked_001.png</key>
+		<key>accountBtn_blocked_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -2994,7 +2994,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/accountBtn_friends_001.png</key>
+		<key>accountBtn_friends_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3007,7 +3007,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/accountBtn_messages_001.png</key>
+		<key>accountBtn_messages_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3020,7 +3020,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/accountBtn_messagessent_001.png</key>
+		<key>accountBtn_messagessent_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3033,7 +3033,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/accountBtn_myLevels_001.png</key>
+		<key>accountBtn_myLevels_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3046,7 +3046,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/accountBtn_myLists_001.png</key>
+		<key>accountBtn_myLists_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3059,7 +3059,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/accountBtn_pendingRequest_001.png</key>
+		<key>accountBtn_pendingRequest_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3072,7 +3072,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/accountBtn_pending_001.png</key>
+		<key>accountBtn_pending_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3085,7 +3085,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/accountBtn_removeFriend_001.png</key>
+		<key>accountBtn_removeFriend_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3098,7 +3098,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/accountBtn_requests_001.png</key>
+		<key>accountBtn_requests_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3111,7 +3111,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/accountBtn_settings_001.png</key>
+		<key>accountBtn_settings_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3124,7 +3124,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/achievementGlow_001.png</key>
+		<key>achievementGlow_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3137,7 +3137,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/adRope_001.png</key>
+		<key>adRope_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-3}</string>
@@ -3150,7 +3150,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/backArrowPlain_01_001.png</key>
+		<key>backArrowPlain_01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,1}</string>
@@ -3163,7 +3163,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/bonusShard2Small_001.png</key>
+		<key>bonusShard2Small_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3176,7 +3176,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/bonusShardLabel_001.png</key>
+		<key>bonusShardLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3189,7 +3189,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/bonusShardSmall_001.png</key>
+		<key>bonusShardSmall_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3202,7 +3202,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/btn_chatHistory_001.png</key>
+		<key>btn_chatHistory_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3215,7 +3215,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/chestIcon_001.png</key>
+		<key>chestIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3228,7 +3228,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/collaborationIcon_001.png</key>
+		<key>collaborationIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3241,7 +3241,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/communityCreditsBtn_001.png</key>
+		<key>communityCreditsBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3254,7 +3254,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/communityIcon_01_001.png</key>
+		<key>communityIcon_01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3267,7 +3267,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/communityIcon_02_001.png</key>
+		<key>communityIcon_02_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3280,7 +3280,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/communityIcon_03_001.png</key>
+		<key>communityIcon_03_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3293,7 +3293,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/controllerBtn_A_001.png</key>
+		<key>controllerBtn_A_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3306,7 +3306,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/controllerBtn_B_001.png</key>
+		<key>controllerBtn_B_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3319,7 +3319,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/controllerBtn_Back_001.png</key>
+		<key>controllerBtn_Back_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3332,7 +3332,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/controllerBtn_DPad_Down_001.png</key>
+		<key>controllerBtn_DPad_Down_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3345,7 +3345,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/controllerBtn_DPad_Left_001.png</key>
+		<key>controllerBtn_DPad_Left_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3358,7 +3358,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/controllerBtn_DPad_Right_001.png</key>
+		<key>controllerBtn_DPad_Right_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3371,7 +3371,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/controllerBtn_DPad_Up_001.png</key>
+		<key>controllerBtn_DPad_Up_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3384,7 +3384,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/controllerBtn_LThumb_001.png</key>
+		<key>controllerBtn_LThumb_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -3397,7 +3397,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/controllerBtn_RThumb_001.png</key>
+		<key>controllerBtn_RThumb_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -3410,7 +3410,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/controllerBtn_Start_001.png</key>
+		<key>controllerBtn_Start_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3423,7 +3423,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/controllerBtn_X_001.png</key>
+		<key>controllerBtn_X_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3436,7 +3436,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/controllerBtn_Y_001.png</key>
+		<key>controllerBtn_Y_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3449,7 +3449,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/creators_tab_off_001.png</key>
+		<key>creators_tab_off_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3462,7 +3462,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/creators_tab_on_001.png</key>
+		<key>creators_tab_on_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3475,7 +3475,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/currencyDiamondIcon_001.png</key>
+		<key>currencyDiamondIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3488,7 +3488,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/currencyOrbIcon_001.png</key>
+		<key>currencyOrbIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3501,7 +3501,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/currencyOrb_001.png</key>
+		<key>currencyOrb_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3514,7 +3514,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/dailyLevelCorner_001.png</key>
+		<key>dailyLevelCorner_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3527,7 +3527,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/dailyLevelLabel_001.png</key>
+		<key>dailyLevelLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3540,7 +3540,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/deleteFilter_custom_001.png</key>
+		<key>deleteFilter_custom_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3553,7 +3553,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/deleteFilter_details_001.png</key>
+		<key>deleteFilter_details_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3566,7 +3566,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/deleteFilter_none_001.png</key>
+		<key>deleteFilter_none_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3579,7 +3579,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/deleteFilter_static_001.png</key>
+		<key>deleteFilter_static_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3592,7 +3592,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/developedBy_001.png</key>
+		<key>developedBy_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3605,7 +3605,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/diamond_small01_001.png</key>
+		<key>diamond_small01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3618,7 +3618,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/diffIcon_00_btn_001.png</key>
+		<key>diffIcon_00_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3631,7 +3631,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/diffIcon_01_btn_001.png</key>
+		<key>diffIcon_01_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3644,7 +3644,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/diffIcon_02_btn_001.png</key>
+		<key>diffIcon_02_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3657,7 +3657,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/diffIcon_03_btn_001.png</key>
+		<key>diffIcon_03_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3670,7 +3670,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/diffIcon_04_btn_001.png</key>
+		<key>diffIcon_04_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3683,7 +3683,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/diffIcon_05_btn_001.png</key>
+		<key>diffIcon_05_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3696,7 +3696,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/diffIcon_06_btn_001.png</key>
+		<key>diffIcon_06_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3709,7 +3709,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/diffIcon_07_btn_001.png</key>
+		<key>diffIcon_07_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3722,7 +3722,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/diffIcon_08_btn_001.png</key>
+		<key>diffIcon_08_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3735,7 +3735,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/diffIcon_09_btn_001.png</key>
+		<key>diffIcon_09_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3748,7 +3748,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/diffIcon_10_btn_001.png</key>
+		<key>diffIcon_10_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3761,7 +3761,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/diffIcon_auto_btn_001.png</key>
+		<key>diffIcon_auto_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3774,7 +3774,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/difficultySelected_001.png</key>
+		<key>difficultySelected_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3787,7 +3787,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/difficulty_00_btn_001.png</key>
+		<key>difficulty_00_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3800,7 +3800,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/difficulty_01_btn_001.png</key>
+		<key>difficulty_01_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3813,7 +3813,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/difficulty_02_btn_001.png</key>
+		<key>difficulty_02_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3826,7 +3826,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/difficulty_03_btn_001.png</key>
+		<key>difficulty_03_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3839,7 +3839,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/difficulty_04_btn_001.png</key>
+		<key>difficulty_04_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3852,7 +3852,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/difficulty_05_btn_001.png</key>
+		<key>difficulty_05_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3865,7 +3865,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/difficulty_06_btn2_001.png</key>
+		<key>difficulty_06_btn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-3}</string>
@@ -3878,7 +3878,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/difficulty_06_btn_001.png</key>
+		<key>difficulty_06_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3891,7 +3891,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/difficulty_07_btn2_001.png</key>
+		<key>difficulty_07_btn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-4}</string>
@@ -3904,7 +3904,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/difficulty_07_btn_001.png</key>
+		<key>difficulty_07_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3917,7 +3917,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/difficulty_08_btn2_001.png</key>
+		<key>difficulty_08_btn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-4}</string>
@@ -3930,7 +3930,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/difficulty_08_btn_001.png</key>
+		<key>difficulty_08_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3943,7 +3943,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/difficulty_09_btn2_001.png</key>
+		<key>difficulty_09_btn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-3}</string>
@@ -3956,7 +3956,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/difficulty_09_btn_001.png</key>
+		<key>difficulty_09_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3969,7 +3969,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/difficulty_10_btn2_001.png</key>
+		<key>difficulty_10_btn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-3}</string>
@@ -3982,7 +3982,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/difficulty_10_btn_001.png</key>
+		<key>difficulty_10_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -3995,7 +3995,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/difficulty_auto_btn_001.png</key>
+		<key>difficulty_auto_btn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4008,7 +4008,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_addCBtn_001.png</key>
+		<key>edit_addCBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4021,7 +4021,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_areaModeBtn01_001.png</key>
+		<key>edit_areaModeBtn01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4034,7 +4034,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_areaModeBtn02_001.png</key>
+		<key>edit_areaModeBtn02_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4047,7 +4047,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_areaModeBtn03_001.png</key>
+		<key>edit_areaModeBtn03_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{2,0}</string>
@@ -4060,7 +4060,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_areaModeBtn03b_001.png</key>
+		<key>edit_areaModeBtn03b_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{2,0}</string>
@@ -4073,7 +4073,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_areaModeBtn04_001.png</key>
+		<key>edit_areaModeBtn04_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4086,7 +4086,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_areaModeBtn05_001.png</key>
+		<key>edit_areaModeBtn05_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4099,7 +4099,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_buildBtn_001.png</key>
+		<key>edit_buildBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4112,7 +4112,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_buildSBtn_001.png</key>
+		<key>edit_buildSBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4125,7 +4125,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_ccwBtn_001.png</key>
+		<key>edit_ccwBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4138,7 +4138,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_cwBtn_001.png</key>
+		<key>edit_cwBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4151,7 +4151,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_delBtnSmall_001.png</key>
+		<key>edit_delBtnSmall_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4164,7 +4164,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_delBtn_001.png</key>
+		<key>edit_delBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4177,7 +4177,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_delCBtn_001.png</key>
+		<key>edit_delCBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4190,7 +4190,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_deleteBtn_001.png</key>
+		<key>edit_deleteBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4203,7 +4203,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_deleteSBtn_001.png</key>
+		<key>edit_deleteSBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4216,7 +4216,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_deselectBtn_001.png</key>
+		<key>edit_deselectBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4229,7 +4229,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_downBtn2_001.png</key>
+		<key>edit_downBtn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4242,7 +4242,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_downBtn3_001.png</key>
+		<key>edit_downBtn3_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4255,7 +4255,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_downBtn5_001.png</key>
+		<key>edit_downBtn5_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4268,7 +4268,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_downBtn_001.png</key>
+		<key>edit_downBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4281,7 +4281,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_editBtn_001.png</key>
+		<key>edit_editBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4294,7 +4294,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_editSBtn_001.png</key>
+		<key>edit_editSBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4307,7 +4307,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_enableRotateBtn_001.png</key>
+		<key>edit_enableRotateBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4320,7 +4320,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_findBtn_001.png</key>
+		<key>edit_findBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4333,7 +4333,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_flipXBtn_001.png</key>
+		<key>edit_flipXBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4346,7 +4346,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_flipYBtn_001.png</key>
+		<key>edit_flipYBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4359,7 +4359,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_freeMoveBtn_001.png</key>
+		<key>edit_freeMoveBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4372,7 +4372,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_freeRotateBtn_001.png</key>
+		<key>edit_freeRotateBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4385,7 +4385,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_leftBtn2_001.png</key>
+		<key>edit_leftBtn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4398,7 +4398,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_leftBtn3_001.png</key>
+		<key>edit_leftBtn3_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4411,7 +4411,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_leftBtn5_001.png</key>
+		<key>edit_leftBtn5_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4424,7 +4424,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_leftBtn_001.png</key>
+		<key>edit_leftBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4437,7 +4437,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_rightBtn2_001.png</key>
+		<key>edit_rightBtn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4450,7 +4450,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_rightBtn3_001.png</key>
+		<key>edit_rightBtn3_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4463,7 +4463,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_rightBtn5_001.png</key>
+		<key>edit_rightBtn5_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4476,7 +4476,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_rightBtn_001.png</key>
+		<key>edit_rightBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4489,7 +4489,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_rotate45lBtn_001.png</key>
+		<key>edit_rotate45lBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4502,7 +4502,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_rotate45rBtn_001.png</key>
+		<key>edit_rotate45rBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4515,7 +4515,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_rotateSnapBtn_001.png</key>
+		<key>edit_rotateSnapBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4528,7 +4528,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_snapBtn_001.png</key>
+		<key>edit_snapBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4541,7 +4541,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_swipeBtn_001.png</key>
+		<key>edit_swipeBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4554,7 +4554,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_upBtn2_001.png</key>
+		<key>edit_upBtn2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4567,7 +4567,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_upBtn3_001.png</key>
+		<key>edit_upBtn3_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4580,7 +4580,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/edit_upBtn5_001.png</key>
+		<key>edit_upBtn5_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4593,7 +4593,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_upBtn_001.png</key>
+		<key>edit_upBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4606,7 +4606,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/edit_vLine_001.png</key>
+		<key>edit_vLine_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4619,7 +4619,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/eventLevelLabel_001.png</key>
+		<key>eventLevelLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4632,7 +4632,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/exMark_001.png</key>
+		<key>exMark_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4645,7 +4645,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/explosionIcon_01_001.png</key>
+		<key>explosionIcon_01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4658,7 +4658,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/explosionIcon_02_001.png</key>
+		<key>explosionIcon_02_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4671,7 +4671,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/explosionIcon_03_001.png</key>
+		<key>explosionIcon_03_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4684,7 +4684,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/explosionIcon_04_001.png</key>
+		<key>explosionIcon_04_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4697,7 +4697,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/explosionIcon_05_001.png</key>
+		<key>explosionIcon_05_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4710,7 +4710,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/explosionIcon_06_001.png</key>
+		<key>explosionIcon_06_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4723,7 +4723,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/explosionIcon_07_001.png</key>
+		<key>explosionIcon_07_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,1}</string>
@@ -4736,7 +4736,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/explosionIcon_08_001.png</key>
+		<key>explosionIcon_08_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4749,7 +4749,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/explosionIcon_09_001.png</key>
+		<key>explosionIcon_09_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4762,7 +4762,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/explosionIcon_10_001.png</key>
+		<key>explosionIcon_10_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4775,7 +4775,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/explosionIcon_11_001.png</key>
+		<key>explosionIcon_11_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4788,7 +4788,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/explosionIcon_12_001.png</key>
+		<key>explosionIcon_12_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4801,7 +4801,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/explosionIcon_13_001.png</key>
+		<key>explosionIcon_13_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4814,7 +4814,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/explosionIcon_14_001.png</key>
+		<key>explosionIcon_14_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4827,7 +4827,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/explosionIcon_15_001.png</key>
+		<key>explosionIcon_15_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4840,7 +4840,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/explosionIcon_16_001.png</key>
+		<key>explosionIcon_16_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4853,7 +4853,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/explosionIcon_17_001.png</key>
+		<key>explosionIcon_17_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4866,7 +4866,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/explosionIcon_18_001.png</key>
+		<key>explosionIcon_18_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4879,7 +4879,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/explosionIcon_19_001.png</key>
+		<key>explosionIcon_19_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4892,7 +4892,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/explosionIcon_20_001.png</key>
+		<key>explosionIcon_20_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4905,7 +4905,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/explosionIcon_21_001.png</key>
+		<key>explosionIcon_21_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4918,7 +4918,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/explosionIcon_22.png</key>
+		<key>explosionIcon_22.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4931,7 +4931,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/explosionIcon_23.png</key>
+		<key>explosionIcon_23.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4944,7 +4944,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/featuredLabel_001.png</key>
+		<key>featuredLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4957,7 +4957,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/fireShardBig_001.png</key>
+		<key>fireShardBig_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4970,7 +4970,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/fireShardLabel_001.png</key>
+		<key>fireShardLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4983,7 +4983,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/fireShardSmall_001.png</key>
+		<key>fireShardSmall_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -4996,7 +4996,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/folderIcon_001.png</key>
+		<key>folderIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5009,7 +5009,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/friends_tab_off_001.png</key>
+		<key>friends_tab_off_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5022,7 +5022,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/friends_tab_on_001.png</key>
+		<key>friends_tab_on_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5035,7 +5035,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/garageRope_001.png</key>
+		<key>garageRope_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,4}</string>
@@ -5048,7 +5048,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gauntletCorner_001.png</key>
+		<key>gauntletCorner_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5061,7 +5061,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gjItem_01_001.png</key>
+		<key>gjItem_01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5074,7 +5074,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gjItem_02_001.png</key>
+		<key>gjItem_02_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5087,7 +5087,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gjItem_03_001.png</key>
+		<key>gjItem_03_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5100,7 +5100,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gjItem_04_001.png</key>
+		<key>gjItem_04_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5113,7 +5113,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gjItem_05_001.png</key>
+		<key>gjItem_05_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5126,7 +5126,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gjItem_16_001.png</key>
+		<key>gjItem_16_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5139,7 +5139,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gjItem_17_001.png</key>
+		<key>gjItem_17_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5152,7 +5152,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gjItem_18_001.png</key>
+		<key>gjItem_18_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5165,7 +5165,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gjItem_19_001.png</key>
+		<key>gjItem_19_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5178,7 +5178,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gjItem_20_001.png</key>
+		<key>gjItem_20_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5191,7 +5191,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gj_ballBtn_off_001.png</key>
+		<key>gj_ballBtn_off_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5204,7 +5204,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_ballBtn_on_001.png</key>
+		<key>gj_ballBtn_on_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5217,7 +5217,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_birdBtn_off_001.png</key>
+		<key>gj_birdBtn_off_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5230,7 +5230,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_birdBtn_on_001.png</key>
+		<key>gj_birdBtn_on_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5243,7 +5243,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_dartBtn_off_001.png</key>
+		<key>gj_dartBtn_off_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5256,7 +5256,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_dartBtn_on_001.png</key>
+		<key>gj_dartBtn_on_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5269,7 +5269,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_discordIcon_001.png</key>
+		<key>gj_discordIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5282,7 +5282,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gj_explosionBtn_off_001.png</key>
+		<key>gj_explosionBtn_off_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5295,7 +5295,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_explosionBtn_on_001.png</key>
+		<key>gj_explosionBtn_on_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5308,7 +5308,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_fbIcon_001.png</key>
+		<key>gj_fbIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5321,7 +5321,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gj_findBtnOff_001.png</key>
+		<key>gj_findBtnOff_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5334,7 +5334,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_findBtn_001.png</key>
+		<key>gj_findBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5347,7 +5347,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_folderBtn_001.png</key>
+		<key>gj_folderBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,1}</string>
@@ -5360,7 +5360,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gj_globalRankTxt_001.png</key>
+		<key>gj_globalRankTxt_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5373,7 +5373,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_heartOff_001.png</key>
+		<key>gj_heartOff_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5386,7 +5386,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gj_heartOn_001.png</key>
+		<key>gj_heartOn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5399,7 +5399,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gj_iconBtn_off_001.png</key>
+		<key>gj_iconBtn_off_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5412,7 +5412,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_iconBtn_on_001.png</key>
+		<key>gj_iconBtn_on_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5425,7 +5425,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_jetpackBtn_off_001.png</key>
+		<key>gj_jetpackBtn_off_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5438,7 +5438,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_jetpackBtn_on_001.png</key>
+		<key>gj_jetpackBtn_on_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5451,7 +5451,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_linkBtnOff_001.png</key>
+		<key>gj_linkBtnOff_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5464,7 +5464,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_linkBtn_001.png</key>
+		<key>gj_linkBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5477,7 +5477,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_navDotBtn_off_001.png</key>
+		<key>gj_navDotBtn_off_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5490,7 +5490,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_navDotBtn_on_001.png</key>
+		<key>gj_navDotBtn_on_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5503,7 +5503,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_rdIcon_001.png</key>
+		<key>gj_rdIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5516,7 +5516,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gj_robotBtn_off_001.png</key>
+		<key>gj_robotBtn_off_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5529,7 +5529,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_robotBtn_on_001.png</key>
+		<key>gj_robotBtn_on_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5542,7 +5542,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_shipBtn_off_001.png</key>
+		<key>gj_shipBtn_off_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5555,7 +5555,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_shipBtn_on_001.png</key>
+		<key>gj_shipBtn_on_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5568,7 +5568,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_spiderBtn_off_001.png</key>
+		<key>gj_spiderBtn_off_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5581,7 +5581,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_spiderBtn_on_001.png</key>
+		<key>gj_spiderBtn_on_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5594,7 +5594,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_streakBtn_off_001.png</key>
+		<key>gj_streakBtn_off_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5607,7 +5607,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_streakBtn_on_001.png</key>
+		<key>gj_streakBtn_on_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5620,7 +5620,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_swingBtn_off_001.png</key>
+		<key>gj_swingBtn_off_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5633,7 +5633,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_swingBtn_on_001.png</key>
+		<key>gj_swingBtn_on_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5646,7 +5646,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_twIcon_001.png</key>
+		<key>gj_twIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5659,7 +5659,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gj_twitchIcon_001.png</key>
+		<key>gj_twitchIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5672,7 +5672,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gj_ytIcon_001.png</key>
+		<key>gj_ytIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5685,7 +5685,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/global_tab_off_001.png</key>
+		<key>global_tab_off_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5698,7 +5698,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/global_tab_on_001.png</key>
+		<key>global_tab_on_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5711,7 +5711,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gplusSignIn_001.png</key>
+		<key>gplusSignIn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5724,7 +5724,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gplusSignOut_001.png</key>
+		<key>gplusSignOut_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5737,7 +5737,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/groundSquareShadow_001.png</key>
+		<key>groundSquareShadow_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-1,0}</string>
@@ -5750,7 +5750,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/hideBtn_001.png</key>
+		<key>hideBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5763,7 +5763,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/highObjectIcon_001.png</key>
+		<key>highObjectIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5776,7 +5776,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/iceShardBig_001.png</key>
+		<key>iceShardBig_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5789,7 +5789,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/iceShardLabel_001.png</key>
+		<key>iceShardLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5802,7 +5802,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/iceShardSmall_001.png</key>
+		<key>iceShardSmall_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5815,7 +5815,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/label_of_001.png</key>
+		<key>label_of_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5828,7 +5828,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/label_paths_001.png</key>
+		<key>label_paths_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5841,7 +5841,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/label_power_001.png</key>
+		<key>label_power_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5854,7 +5854,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/label_shards_001.png</key>
+		<key>label_shards_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{1,0}</string>
@@ -5867,7 +5867,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/lavaShardBig_001.png</key>
+		<key>lavaShardBig_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5880,7 +5880,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/lavaShardLabel_001.png</key>
+		<key>lavaShardLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5893,7 +5893,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/lavaShardSmall_001.png</key>
+		<key>lavaShardSmall_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5906,7 +5906,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/levelLeaderboard_friendsBtn_001.png</key>
+		<key>levelLeaderboard_friendsBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5919,7 +5919,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/levelLeaderboard_globalBtn_001.png</key>
+		<key>levelLeaderboard_globalBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5932,7 +5932,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/levelLeaderboard_globalWeeklyBtn_001.png</key>
+		<key>levelLeaderboard_globalWeeklyBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5945,7 +5945,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/levelLeaderboard_localBtn_001.png</key>
+		<key>levelLeaderboard_localBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5958,7 +5958,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/miniSkull_001.png</key>
+		<key>miniSkull_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5971,7 +5971,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/modBadge_01_001.png</key>
+		<key>modBadge_01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5984,7 +5984,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/modBadge_02_001.png</key>
+		<key>modBadge_02_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -5997,7 +5997,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/modBadge_03_001.png</key>
+		<key>modBadge_03_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6010,7 +6010,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/moon_small01_001.png</key>
+		<key>moon_small01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6023,7 +6023,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/navArrowBtn_001.png</key>
+		<key>navArrowBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-2}</string>
@@ -6036,7 +6036,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/ncs_large_001.png</key>
+		<key>ncs_large_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6049,7 +6049,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/ncs_med_001.png</key>
+		<key>ncs_med_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6062,7 +6062,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/ncs_small_001.png</key>
+		<key>ncs_small_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6075,7 +6075,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/newMusicIcon2_001.png</key>
+		<key>newMusicIcon2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6088,7 +6088,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/newMusicIcon_001.png</key>
+		<key>newMusicIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6101,7 +6101,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/pathIcon_01_001.png</key>
+		<key>pathIcon_01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,5}</string>
@@ -6114,7 +6114,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/pathIcon_02_001.png</key>
+		<key>pathIcon_02_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -6127,7 +6127,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/pathIcon_03_001.png</key>
+		<key>pathIcon_03_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-6}</string>
@@ -6140,7 +6140,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/pathIcon_04_001.png</key>
+		<key>pathIcon_04_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6153,7 +6153,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/pathIcon_05_001.png</key>
+		<key>pathIcon_05_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-5}</string>
@@ -6166,7 +6166,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/pathIcon_06_001.png</key>
+		<key>pathIcon_06_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6179,7 +6179,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/pathIcon_07_001.png</key>
+		<key>pathIcon_07_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-7}</string>
@@ -6192,7 +6192,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/pathIcon_08_001.png</key>
+		<key>pathIcon_08_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6205,7 +6205,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/pathIcon_09_001.png</key>
+		<key>pathIcon_09_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6218,7 +6218,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/pathIcon_10_001.png</key>
+		<key>pathIcon_10_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6231,7 +6231,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/playerSquare_001.png</key>
+		<key>playerSquare_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6244,7 +6244,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/player_special_01_001.png</key>
+		<key>player_special_01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6257,7 +6257,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/player_special_02_001.png</key>
+		<key>player_special_02_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6270,7 +6270,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/player_special_03_001.png</key>
+		<key>player_special_03_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6283,7 +6283,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/player_special_04_001.png</key>
+		<key>player_special_04_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6296,7 +6296,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/player_special_05_001.png</key>
+		<key>player_special_05_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6309,7 +6309,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/player_special_06_001.png</key>
+		<key>player_special_06_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6322,7 +6322,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/player_special_07_001.png</key>
+		<key>player_special_07_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6335,7 +6335,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/poisonShardBig_001.png</key>
+		<key>poisonShardBig_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6348,7 +6348,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/poisonShardLabel_001.png</key>
+		<key>poisonShardLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6361,7 +6361,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/poisonShardSmall_001.png</key>
+		<key>poisonShardSmall_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6374,7 +6374,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/poweredBy_001.png</key>
+		<key>poweredBy_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6387,7 +6387,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/rankIcon_1_001.png</key>
+		<key>rankIcon_1_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6400,7 +6400,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/rankIcon_all_001.png</key>
+		<key>rankIcon_all_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6413,7 +6413,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/rankIcon_top1000_001.png</key>
+		<key>rankIcon_top1000_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6426,7 +6426,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/rankIcon_top100_001.png</key>
+		<key>rankIcon_top100_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6439,7 +6439,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/rankIcon_top10_001.png</key>
+		<key>rankIcon_top10_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6452,7 +6452,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/rankIcon_top200_001.png</key>
+		<key>rankIcon_top200_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6465,7 +6465,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/rankIcon_top500_001.png</key>
+		<key>rankIcon_top500_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6478,7 +6478,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/rankIcon_top50_001.png</key>
+		<key>rankIcon_top50_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6491,7 +6491,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/rewardCorner_001.png</key>
+		<key>rewardCorner_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6504,7 +6504,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/rewardsLabel_001.png</key>
+		<key>rewardsLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6517,7 +6517,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/robtoplogo_small.png</key>
+		<key>robtoplogo_small.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6530,7 +6530,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/secretCoinUI2_001.png</key>
+		<key>secretCoinUI2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6543,7 +6543,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/secretCoinUI_001.png</key>
+		<key>secretCoinUI_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6556,7 +6556,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/secretDoorBtn2_closed_001.png</key>
+		<key>secretDoorBtn2_closed_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-2}</string>
@@ -6569,7 +6569,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/secretDoorBtn2_open_001.png</key>
+		<key>secretDoorBtn2_open_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-9,-2}</string>
@@ -6582,7 +6582,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/secretDoorBtn_closed_001.png</key>
+		<key>secretDoorBtn_closed_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -6595,7 +6595,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/secretDoorBtn_open_001.png</key>
+		<key>secretDoorBtn_open_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-5,-1}</string>
@@ -6608,7 +6608,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/shadowShardBig_001.png</key>
+		<key>shadowShardBig_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6621,7 +6621,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/shadowShardLabel_001.png</key>
+		<key>shadowShardLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6634,7 +6634,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/shadowShardSmall_001.png</key>
+		<key>shadowShardSmall_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6647,7 +6647,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/shard0201ShardBig_001.png</key>
+		<key>shard0201ShardBig_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6660,7 +6660,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/shard0201ShardLabel_001.png</key>
+		<key>shard0201ShardLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6673,7 +6673,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/shard0201ShardSmall_001.png</key>
+		<key>shard0201ShardSmall_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6686,7 +6686,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/shard0202ShardBig_001.png</key>
+		<key>shard0202ShardBig_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6699,7 +6699,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/shard0202ShardLabel_001.png</key>
+		<key>shard0202ShardLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6712,7 +6712,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/shard0202ShardSmall_001.png</key>
+		<key>shard0202ShardSmall_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6725,7 +6725,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/shard0203ShardBig_001.png</key>
+		<key>shard0203ShardBig_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6738,7 +6738,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/shard0203ShardLabel_001.png</key>
+		<key>shard0203ShardLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6751,7 +6751,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/shard0203ShardSmall_001.png</key>
+		<key>shard0203ShardSmall_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6764,7 +6764,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/shard0204ShardBig_001.png</key>
+		<key>shard0204ShardBig_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6777,7 +6777,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/shard0204ShardLabel_001.png</key>
+		<key>shard0204ShardLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6790,7 +6790,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/shard0204ShardSmall_001.png</key>
+		<key>shard0204ShardSmall_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6803,7 +6803,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/shard0205ShardBig_001.png</key>
+		<key>shard0205ShardBig_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6816,7 +6816,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/shard0205ShardLabel_001.png</key>
+		<key>shard0205ShardLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6829,7 +6829,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/shard0205ShardSmall_001.png</key>
+		<key>shard0205ShardSmall_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6842,7 +6842,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/shard2Shadow_001.png</key>
+		<key>shard2Shadow_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-3}</string>
@@ -6855,7 +6855,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/shard2_glow_001.png</key>
+		<key>shard2_glow_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -6868,7 +6868,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/shardShadow_001.png</key>
+		<key>shardShadow_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -6881,7 +6881,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/shard_glow_001.png</key>
+		<key>shard_glow_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{1,-1}</string>
@@ -6894,7 +6894,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/shineBurst_001.png</key>
+		<key>shineBurst_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6907,7 +6907,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/shipfireIcon_01_001.png</key>
+		<key>shipfireIcon_01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6920,7 +6920,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/shipfireIcon_02_001.png</key>
+		<key>shipfireIcon_02_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6933,7 +6933,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/shipfireIcon_03_001.png</key>
+		<key>shipfireIcon_03_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6946,7 +6946,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/shipfireIcon_04_001.png</key>
+		<key>shipfireIcon_04_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6959,7 +6959,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/shipfireIcon_05_001.png</key>
+		<key>shipfireIcon_05_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6972,7 +6972,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/shipfireIcon_06_001.png</key>
+		<key>shipfireIcon_06_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -6985,7 +6985,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/shopRope_001.png</key>
+		<key>shopRope_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,2}</string>
@@ -6998,7 +6998,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/star_small01_001.png</key>
+		<key>star_small01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -7011,7 +7011,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/storeItemIcon_001.png</key>
+		<key>storeItemIcon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -7024,7 +7024,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/theSafeLabel_001.png</key>
+		<key>theSafeLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -7037,7 +7037,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/tier1Icon_001.png</key>
+		<key>tier1Icon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -7050,7 +7050,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/tier2Icon_001.png</key>
+		<key>tier2Icon_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -7063,7 +7063,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/topListsLabel_001.png</key>
+		<key>topListsLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -7076,7 +7076,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/top_tab_off_001.png</key>
+		<key>top_tab_off_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -7089,7 +7089,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/top_tab_on_001.png</key>
+		<key>top_tab_on_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -7102,7 +7102,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/uiDot_001.png</key>
+		<key>uiDot_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -7115,7 +7115,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/usercoin_small01_001.png</key>
+		<key>usercoin_small01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -7128,7 +7128,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/warpBtn_01_001.png</key>
+		<key>warpBtn_01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -7141,7 +7141,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/warpBtn_02_001.png</key>
+		<key>warpBtn_02_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -7154,7 +7154,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/warpBtn_03_001.png</key>
+		<key>warpBtn_03_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -7167,7 +7167,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/warpLockOffBtn_001.png</key>
+		<key>warpLockOffBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -7180,7 +7180,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/warpLockOnBtn_001.png</key>
+		<key>warpLockOnBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -7193,7 +7193,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/weeklyLevelLabel_001.png</key>
+		<key>weeklyLevelLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -7212,11 +7212,11 @@
 		<key>format</key>
 		<integer>3</integer>
 		<key>realTextureFileName</key>
-		<string>fff/GJ_GameSheet03.png</string>
+		<string>GJ_GameSheet03.png</string>
 		<key>size</key>
 		<string>{943,1293}</string>
 		<key>textureFileName</key>
-		<string>fff/GJ_GameSheet03.png</string>
+		<string>GJ_GameSheet03.png</string>
 	</dict>
 </dict>
 </plist>

@@ -3205,15 +3205,15 @@
 		<key>btn_chatHistory_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{2,-3}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{116,119}</string>
+			<string>{120,120}</string>
 			<key>spriteSourceSize</key>
 			<string>{120,126}</string>
 			<key>textureRect</key>
-			<string>{{1495,2491},{116,119}}</string>
+			<string>{{1495,2491},{120,120}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>chestIcon_001.png</key>
 		<dict>
@@ -3289,7 +3289,7 @@
 			<key>spriteSourceSize</key>
 			<string>{204,82}</string>
 			<key>textureRect</key>
-			<string>{{1616,2543},{199,76}}</string>
+			<string>{{1617,2543},{199,76}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -3328,7 +3328,7 @@
 			<key>spriteSourceSize</key>
 			<string>{120,90}</string>
 			<key>textureRect</key>
-			<string>{{1817,2543},{116,80}}</string>
+			<string>{{1818,2543},{116,80}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -3341,7 +3341,7 @@
 			<key>spriteSourceSize</key>
 			<string>{120,126}</string>
 			<key>textureRect</key>
-			<string>{{1935,2543},{102,96}}</string>
+			<string>{{1936,2543},{102,96}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -3458,7 +3458,7 @@
 			<key>spriteSourceSize</key>
 			<string>{369,128}</string>
 			<key>textureRect</key>
-			<string>{{2039,2606},{368,118}}</string>
+			<string>{{2040,2606},{368,118}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
