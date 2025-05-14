@@ -4,7 +4,7 @@
 <dict>
 	<key>frames</key>
 	<dict>
-		<key>fff/GJ_challengeBtn_001.png</key>
+		<key>GJ_challengeBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{11,-11}</string>
@@ -17,7 +17,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_createBtn_001.png</key>
+		<key>GJ_createBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{11,-11}</string>
@@ -30,7 +30,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_creatorBtn_001.png</key>
+		<key>GJ_creatorBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-3,0}</string>
@@ -43,7 +43,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_dailyBtn_001.png</key>
+		<key>GJ_dailyBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{11,-11}</string>
@@ -56,7 +56,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_eventBtn_001.png</key>
+		<key>GJ_eventBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{11,-11}</string>
@@ -69,7 +69,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_featuredBtn_001.png</key>
+		<key>GJ_featuredBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{11,-11}</string>
@@ -82,7 +82,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_freeLevelsBtn_001.png</key>
+		<key>GJ_freeLevelsBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{2,-7}</string>
@@ -95,7 +95,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_fullBtn_001.png</key>
+		<key>GJ_fullBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{2,-7}</string>
@@ -108,7 +108,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_gauntletsBtn_001.png</key>
+		<key>GJ_gauntletsBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{11,-11}</string>
@@ -121,7 +121,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_highscoreBtn_001.png</key>
+		<key>GJ_highscoreBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{11,-11}</string>
@@ -134,7 +134,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_listsBtn_001.png</key>
+		<key>GJ_listsBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{11,-11}</string>
@@ -147,7 +147,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_mapBtn_001.png</key>
+		<key>GJ_mapBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{11,-11}</string>
@@ -160,7 +160,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_mapPacksBtn_001.png</key>
+		<key>GJ_mapPacksBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{11,-11}</string>
@@ -173,7 +173,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_moreGamesBtn_001.png</key>
+		<key>GJ_moreGamesBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-2,0}</string>
@@ -186,7 +186,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_pathsBtn_001.png</key>
+		<key>GJ_pathsBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{11,-11}</string>
@@ -199,7 +199,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_playBtn_001.png</key>
+		<key>GJ_playBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-11,1}</string>
@@ -212,7 +212,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_safeBtn_001.png</key>
+		<key>GJ_safeBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{2,-3}</string>
@@ -225,7 +225,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/GJ_savedBtn_001.png</key>
+		<key>GJ_savedBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{11,-11}</string>
@@ -238,7 +238,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_searchBtn_001.png</key>
+		<key>GJ_searchBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{11,-11}</string>
@@ -251,7 +251,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_versusBtn_001.png</key>
+		<key>GJ_versusBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{11,-11}</string>
@@ -264,7 +264,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/GJ_weeklyBtn_001.png</key>
+		<key>GJ_weeklyBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{11,-11}</string>
@@ -277,7 +277,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/boost_01_shine_001.png</key>
+		<key>boost_01_shine_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -290,7 +290,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/boost_02_shine_001.png</key>
+		<key>boost_02_shine_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -303,7 +303,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/boost_03_shine_001.png</key>
+		<key>boost_03_shine_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -316,7 +316,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/boost_04_shine_001.png</key>
+		<key>boost_04_shine_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -329,7 +329,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/boost_05_shine_001.png</key>
+		<key>boost_05_shine_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{1,0}</string>
@@ -342,7 +342,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gj_dailyCrown_001.png</key>
+		<key>gj_dailyCrown_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,-1}</string>
@@ -355,7 +355,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/gj_eventCrown_001.png</key>
+		<key>gj_eventCrown_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-9,3}</string>
@@ -368,7 +368,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/gj_weeklyCrown_001.png</key>
+		<key>gj_weeklyCrown_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-1,1}</string>
@@ -381,7 +381,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/playerDash2_boom2_001.png</key>
+		<key>playerDash2_boom2_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-6,3}</string>
@@ -394,7 +394,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/playerDash2_boom2_002.png</key>
+		<key>playerDash2_boom2_002.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-4,8}</string>
@@ -407,7 +407,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/playerDash2_boom2_003.png</key>
+		<key>playerDash2_boom2_003.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-3,11}</string>
@@ -420,7 +420,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/playerDash2_boom2_004.png</key>
+		<key>playerDash2_boom2_004.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-2,8}</string>
@@ -433,7 +433,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/playerDash2_boom2_005.png</key>
+		<key>playerDash2_boom2_005.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-4,8}</string>
@@ -446,7 +446,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/playerDash2_boom2_006.png</key>
+		<key>playerDash2_boom2_006.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-4,7}</string>
@@ -459,7 +459,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/playerDash2_boom2_007.png</key>
+		<key>playerDash2_boom2_007.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-3,7}</string>
@@ -472,7 +472,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/playerDash2_boom2_008.png</key>
+		<key>playerDash2_boom2_008.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-1,7}</string>
@@ -485,7 +485,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/playerDash2_boom2_009.png</key>
+		<key>playerDash2_boom2_009.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-3,7}</string>
@@ -498,7 +498,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/portalshine_01_back_001.png</key>
+		<key>portalshine_01_back_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-44,-1}</string>
@@ -511,7 +511,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/portalshine_01_front_001.png</key>
+		<key>portalshine_01_front_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{2,-1}</string>
@@ -524,7 +524,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/portalshine_02_back_001.png</key>
+		<key>portalshine_02_back_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-48,0}</string>
@@ -537,7 +537,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/portalshine_02_front_001.png</key>
+		<key>portalshine_02_front_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{14,0}</string>
@@ -550,7 +550,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/portalshine_03_back_001.png</key>
+		<key>portalshine_03_back_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-18,0}</string>
@@ -563,7 +563,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/portalshine_03_front_001.png</key>
+		<key>portalshine_03_front_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{18,-1}</string>
@@ -576,7 +576,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/portalshine_04_back_001.png</key>
+		<key>portalshine_04_back_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-44,-1}</string>
@@ -589,7 +589,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/portalshine_04_front_001.png</key>
+		<key>portalshine_04_front_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{12,-1}</string>
@@ -602,7 +602,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/portalshine_05_back_001.png</key>
+		<key>portalshine_05_back_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-19,-6}</string>
@@ -615,7 +615,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/portalshine_05_front_001.png</key>
+		<key>portalshine_05_front_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -628,7 +628,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/portalshine_06_back_001.png</key>
+		<key>portalshine_06_back_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-48,0}</string>
@@ -641,7 +641,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/portalshine_06_front_001.png</key>
+		<key>portalshine_06_front_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-12,0}</string>
@@ -654,7 +654,7 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fff/spiderDash_001.png</key>
+		<key>spiderDash_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{12,1}</string>
@@ -667,7 +667,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/spiderDash_002.png</key>
+		<key>spiderDash_002.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-15,1}</string>
@@ -680,7 +680,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/spiderDash_003.png</key>
+		<key>spiderDash_003.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-121,2}</string>
@@ -693,7 +693,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/spiderDash_004.png</key>
+		<key>spiderDash_004.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-187,3}</string>
@@ -706,7 +706,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/spiderDash_005.png</key>
+		<key>spiderDash_005.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-218,3}</string>
@@ -719,7 +719,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/spiderDash_006.png</key>
+		<key>spiderDash_006.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-286,5}</string>
@@ -732,7 +732,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/spiderDash_007.png</key>
+		<key>spiderDash_007.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-315,4}</string>
@@ -745,7 +745,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/spiderDash_008.png</key>
+		<key>spiderDash_008.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{-392,7}</string>
@@ -758,7 +758,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/theTowerDoor_001.png</key>
+		<key>theTowerDoor_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{4,-3}</string>
@@ -771,7 +771,7 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fff/theTowerLabel_001.png</key>
+		<key>theTowerLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{6,-6}</string>
@@ -790,11 +790,11 @@
 		<key>format</key>
 		<integer>3</integer>
 		<key>realTextureFileName</key>
-		<string>fff/GJ_GameSheet04-uhd.png</string>
+		<string>GJ_GameSheet04-uhd.png</string>
 		<key>size</key>
 		<string>{2524,2415}</string>
 		<key>textureFileName</key>
-		<string>fff/GJ_GameSheet04-uhd.png</string>
+		<string>GJ_GameSheet04-uhd.png</string>
 	</dict>
 </dict>
 </plist>
