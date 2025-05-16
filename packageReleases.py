@@ -45,7 +45,8 @@ def createZip(name):
     global files
     
     path = f"./{name}.zip"
-    os.remove(path) # delete the previous zip file
+    if os.path.exists(path):
+        os.remove(path) # delete the previous zip file
     with zf(path, "w") as files: # create a new zip file
         writeToZip("bigFont")
         writeToZip("bigFont", "fnt")
@@ -86,7 +87,9 @@ if __name__ == "__main__":
         else:
             createZip("GDP5TP_noGeode")
     print()
-    if os.path.exists("./GDP5TP_noGeode.zip") and os.path.exists("./GDP5TP_textureldr.zip") and len(failedFiles) == 0:
+    filesExist = os.path.exists("./GDP5TP_noGeode.zip") and os.path.exists("./GDP5TP_textureldr.zip")
+
+    if filesExist and len(failedFiles) == 0:
         print("SUCCESS!")
     else:
         print("ERROR!")
@@ -100,6 +103,7 @@ if __name__ == "__main__":
                 else:
                     print(file)
         # delete the zip files to prevent publishing a broken texture pack
-        os.remove("./GDP5TP_textureldr.zip")
-        os.remove("./GDP5TP_noGeode.zip")
+        if filesExist:
+            os.remove("./GDP5TP_textureldr.zip")
+            os.remove("./GDP5TP_noGeode.zip")
         input("Press the Enter key to close...")
