@@ -7,7 +7,7 @@
 		<key>chestPlatform_01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{79,18}</string>
 			<key>spriteSourceSize</key>
@@ -20,7 +20,7 @@
 		<key>chestSpecial_01_price_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{54,16}</string>
 			<key>spriteSourceSize</key>
@@ -33,7 +33,7 @@
 		<key>chestSpecial_02_price_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{54,16}</string>
 			<key>spriteSourceSize</key>
@@ -46,7 +46,7 @@
 		<key>chestSpecial_03_price_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{54,16}</string>
 			<key>spriteSourceSize</key>
@@ -59,7 +59,7 @@
 		<key>chest_03_price_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{54,16}</string>
 			<key>spriteSourceSize</key>
@@ -72,7 +72,7 @@
 		<key>chest_04_price_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{54,16}</string>
 			<key>spriteSourceSize</key>
@@ -85,7 +85,7 @@
 		<key>chest_05_price_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{54,16}</string>
 			<key>spriteSourceSize</key>
@@ -98,7 +98,7 @@
 		<key>chest_06_price_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{54,16}</string>
 			<key>spriteSourceSize</key>
@@ -111,7 +111,7 @@
 		<key>chest_07_price_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{54,16}</string>
 			<key>spriteSourceSize</key>
@@ -124,7 +124,7 @@
 		<key>chest_08_price_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{54,16}</string>
 			<key>spriteSourceSize</key>
@@ -137,7 +137,7 @@
 		<key>chest_09_price_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{54,16}</string>
 			<key>spriteSourceSize</key>
@@ -150,7 +150,7 @@
 		<key>tier1label_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,-1}</string>
+			<string>{0.5,-1}</string>
 			<key>spriteSize</key>
 			<string>{75,26}</string>
 			<key>spriteSourceSize</key>
@@ -176,7 +176,7 @@
 		<key>treasureRoomGround_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{534,26}</string>
 			<key>spriteSourceSize</key>
@@ -189,7 +189,7 @@
 		<key>treasureRoomLabel_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{259,29}</string>
 			<key>spriteSourceSize</key>
@@ -202,7 +202,7 @@
 		<key>treasureRoomSpiderweb_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{60,59}</string>
 			<key>spriteSourceSize</key>

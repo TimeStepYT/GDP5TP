@@ -7,7 +7,7 @@
 		<key>GJ_logo_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{26,0}</string>
+			<string>{26,-0}</string>
 			<key>spriteSize</key>
 			<string>{339,52}</string>
 			<key>spriteSourceSize</key>
@@ -33,7 +33,7 @@
 		<key>cocos2DxLogo.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{90,24}</string>
 			<key>spriteSourceSize</key>
@@ -46,7 +46,7 @@
 		<key>fmodLogo.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{90,23}</string>
 			<key>spriteSourceSize</key>

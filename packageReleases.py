@@ -36,8 +36,8 @@ def addMoreIf(textureldr):
     writeToZip("geode.loader/BlankSheet", "plist")
     writeToZip("geode.loader/LogoSheet")
     writeToZip("geode.loader/LogoSheet", "plist")
-    writeToZip("dankmeme.globed2/globedsheet1")
-    writeToZip("dankmeme.globed2/globedsheet1", "plist")
+    #writeToZip("dankmeme.globed2/globedsheet1")
+    #writeToZip("dankmeme.globed2/globedsheet1", "plist")
     writeToZip("menu-shader", "fsh")
 
 
