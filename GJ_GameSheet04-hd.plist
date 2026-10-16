@@ -345,13 +345,13 @@
 		<key>GJ_newsBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{2.5,-2.5}</string>
+			<string>{2,-2.5}</string>
 			<key>spriteSize</key>
-			<string>{157,134}</string>
+			<string>{158,134}</string>
 			<key>spriteSourceSize</key>
 			<string>{162,139}</string>
 			<key>textureRect</key>
-			<string>{{815,404},{157,134}}</string>
+			<string>{{815,404},{158,134}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -364,7 +364,7 @@
 			<key>spriteSourceSize</key>
 			<string>{47,47}</string>
 			<key>textureRect</key>
-			<string>{{974,404},{47,47}}</string>
+			<string>{{975,404},{47,47}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -390,7 +390,7 @@
 			<key>spriteSourceSize</key>
 			<string>{219,219}</string>
 			<key>textureRect</key>
-			<string>{{1023,477},{194,194}}</string>
+			<string>{{1024,477},{194,194}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -455,7 +455,7 @@
 			<key>spriteSourceSize</key>
 			<string>{33,34}</string>
 			<key>textureRect</key>
-			<string>{{974,453},{33,34}}</string>
+			<string>{{975,453},{33,34}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -481,7 +481,7 @@
 			<key>spriteSourceSize</key>
 			<string>{33,35}</string>
 			<key>textureRect</key>
-			<string>{{1219,477},{33,35}}</string>
+			<string>{{1220,477},{33,35}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -533,7 +533,7 @@
 			<key>spriteSourceSize</key>
 			<string>{44,44}</string>
 			<key>textureRect</key>
-			<string>{{974,488},{44,44}}</string>
+			<string>{{975,488},{44,44}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -546,7 +546,7 @@
 			<key>spriteSourceSize</key>
 			<string>{47,40}</string>
 			<key>textureRect</key>
-			<string>{{974,534},{47,40}}</string>
+			<string>{{975,534},{47,40}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
