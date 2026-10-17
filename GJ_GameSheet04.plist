@@ -59,13 +59,13 @@
 		<key>GJ_creatorBtn_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,-0}</string>
+			<string>{0,0.5}</string>
 			<key>spriteSize</key>
-			<string>{70,70}</string>
+			<string>{70,69}</string>
 			<key>spriteSourceSize</key>
 			<string>{70,70}</string>
 			<key>textureRect</key>
-			<string>{{332,0},{70,70}}</string>
+			<string>{{332,0},{70,69}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -117,7 +117,7 @@
 			<key>spriteSourceSize</key>
 			<string>{104,104}</string>
 			<key>textureRect</key>
-			<string>{{332,72},{101,101}}</string>
+			<string>{{332,71},{101,101}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -273,7 +273,7 @@
 			<key>spriteSourceSize</key>
 			<string>{104,104}</string>
 			<key>textureRect</key>
-			<string>{{315,175},{101,101}}</string>
+			<string>{{315,174},{101,101}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -507,7 +507,7 @@
 			<key>spriteSourceSize</key>
 			<string>{104,104}</string>
 			<key>textureRect</key>
-			<string>{{312,278},{101,101}}</string>
+			<string>{{312,277},{101,101}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
