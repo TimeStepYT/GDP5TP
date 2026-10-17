@@ -33,13 +33,7 @@
 			]
 		},
 		"sprites": [
-			"resources/GJ_button_01.png",
-			"resources/GJ_button_02.png",
-			"resources/GJ_gradientBG.png",
-			"resources/GJ_moveBtn.png",
-			"resources/GJ_moveSBtn.png",
-			"resources/sliderBar.png",
-			"resources/slidergroove.png"
+			"resources/*.png"
 		],
 		"fonts": {
 			"bigFont": {

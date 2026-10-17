@@ -57,6 +57,7 @@ def createZip(name):
         writeToZip("GJ_GameSheet03", "plist")
         writeToZip("GJ_GameSheet04")
         writeToZip("GJ_GameSheet04", "plist")
+        writeToZip("square01_001")
         writeToZip("GJ_LaunchSheet")
         writeToZip("GJ_LaunchSheet", "plist")
         writeToZip("GJ_moveBtn")
